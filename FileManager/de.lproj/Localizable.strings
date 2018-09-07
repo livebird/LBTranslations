@@ -595,9 +595,9 @@
 
 "Name" = "Name";
 
-"Date Created" = "Datum erstellt";
+"Date Created" = "Erstellungsdatum";
 
-"Date Modified" = "Datum geändert";
+"Date Modified" = "Änderungsdatum";
 
 "Size" = "Größe";
 
@@ -655,7 +655,7 @@
 
 "Resume" = "Fortsetzen";
 
-"Stop" = "Anhaltem";
+"Stop" = "Anhalten";
 
 "selected" = "ausgewählt";
 
@@ -695,15 +695,15 @@
 
 "File Name*" = "Dateiname*";
 
-"Author Name" = "Autorenname";
+"Author Name" = "Autorname";
 
-"Creator Name" = "Name des Erstellers";
+"Creator Name" = "Erstellername";
 
 "Title" = "Titel";
 
 "Subject" = "Betreff";
 
-"Keywords" = "Schlüsselwörter";
+"Keywords" = "Stichwörter";
 
 "PDF Details" = "PDF Details";
 
@@ -733,7 +733,7 @@
 
 "Login Failure" = "Anmeldungsfehler";
 
-"Office WebDav Server" = "Büro WebDav Server";
+"Office WebDav Server" = "Office WebDav Server";
 
 "Enter WebDav URL" = "WebDAV-URL eingeben";
 
@@ -757,7 +757,7 @@
 
 "Failed" = "Fehlgeschlagen";
 
-"Dimensions" = "Maße";
+"Dimensions" = "Auflösung";
 
 "Color Model" = "Farbmodell";
 
@@ -785,9 +785,9 @@
 
 "Codecs" = "Codecs";
 
-"Sample rate" = "Beispielrate";
+"Sample rate" = "Sample Rate";
 
-"Bit per sample" = "Bit pro Probe";
+"Bit per sample" = "Bit pro Sample";
 
 "Audio channels" = "Audiokanäle";
 
@@ -797,7 +797,7 @@
 
 "None" = "Keine";
 
-"Drives" = "Antriebe";
+"Drives" = "Drive";
 
 "Author" = "Autor";
 
@@ -837,7 +837,7 @@
 
 "Invalid password. Password do not match" = "Ungültiges Passwort. Passwort stimmt nicht überein";
 
-"Check out" = "Ausprobierem";
+"Check out" = "Ausprobieren";
 
 "Website Support" = "Webseite-Unterstützung";
 
