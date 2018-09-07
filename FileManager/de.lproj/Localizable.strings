@@ -15,25 +15,25 @@
 
 "Create PDF with unlimited pages" = "Erstellen Sie PDF mit unbegrenzten Seiten";
 
-"Unlock Hand drawing" = "Entsperren Handzeichnung";
+"Unlock Hand drawing" = "Handzeichnung freischalten";
 
-"Unlock Text File creator" = "Entsperren von Textdatei-Ersteller";
+"Unlock Text File creator" = "Textdatei-Ersteller freischalten";
 
-"Unlock Audio Recording" = "Schalte Audioaufnahme frei";
+"Unlock Audio Recording" = "Audioaufnahme freischalten";
 
-"Unlock clouds" = "Schalte Wolken frei";
+"Unlock clouds" = "Clouds freischalten";
 
-"Remove ads" = "Anzeigen entfernen";
+"Remove ads" = "Werbungen entfernen";
 
-"Upgrade" = "Aktualisierung";
+"Upgrade" = "Upgrade";
 
 "Restore Purchases" = "Einkäufe wiederherstellen";
 
-"Cancel" = "Stornieren";
+"Cancel" = "Abbrechen";
 
-"Crash Report" = "Unfallbericht";
+"Crash Report" = "Absturzbericht";
 
-"File Manager was closed abnormally. Do you want to send that crash report to us ? It will help us to improve File Manager app." = "Dateimanager wurde abnormal geschlossen. Möchten Sie diesen Absturzbericht an uns senden? Es wird uns helfen, die Dateimanager App zu verbessern.";
+"File Manager was closed abnormally. Do you want to send that crash report to us ? It will help us to improve File Manager app." = " Der Dateimanager wurde ungewöhnlich geschlossen. Möchten Sie diesen Absturzbericht an uns senden? Es wird uns helfen, die Dateimanager App zu verbessern.";
 
 "Send" = "Senden";
 
@@ -41,11 +41,11 @@
 
 "Category" = "Kategorie";
 
-"Documents" = "Unterlagen";
+"Documents" = "Dokumente";
 
-"Import" = "Einführen";
+"Import" = "Importieren";
 
-"File imported" = "Datei importiert";
+"File imported" = "Datei wurde importiert";
 
 "Ok" = "OK";
 
@@ -59,11 +59,11 @@
 
 "Enter Password" = "Passwort eingeben";
 
-"You have entered an incorrect passcode too many times." = "Sie haben ein falsches Passwort zu oft eingegeben.";
+"You have entered an incorrect passcode too many times." = "Sie haben zu oft ein falsches Passwort eingegeben.";
 
 "Dropbox" = "Dropbox";
 
-"OneDrive" = "Eine Fahrt";
+"OneDrive" = "OneDrive";
 
 "SugarSync" = "SugarSync";
 
@@ -79,7 +79,7 @@
 
 "Protected PDF" = "Geschütztes PDF";
 
-"Enter PDF Password" = "Geben Sie das PDF-Passwort ein";
+"Enter PDF Password" = "PDF-Passwort eingeben";
 
 "Open PDF" = "PDF öffnen";
 
@@ -89,15 +89,15 @@
 
 "Video" = "Video";
 
-"Zips" = "Reißverschlüsse";
+"Zips" = "Zips";
 
 "Audio" = "Audio";
 
-"Wifi" = "W-lan";
+"Wifi" = "WLAN";
 
 "iTunes Files" = "iTunes Dateien";
 
-"Trash" = "Müll";
+"Trash" = "Papierkorb";
 
 "iCloud" = "iCloud";
 
@@ -107,33 +107,33 @@
 
 "Unzip" = "Entpacken";
 
-"Enter your email id" = "Geben Sie Ihre E-Mail-ID ein";
+"Enter your email id" = "Geben Sie Ihre E-Mail-Adresse ein";
 
-"Submit" = "einreichen";
+"Submit" = "Einreichen";
 
-"Private" = "Privatgelände";
+"Private" = "Privat";
 
 "You have not set password for your private documents yet.Do you want set it now?" = "Sie haben noch kein Passwort für Ihre privaten Dokumente festgelegt. Möchten Sie es jetzt einstellen?";
 
-"Set" = "einstellen";
+"Set" = "Einstellen";
 
 "Later" = "Später";
 
-"Put Back" = "Zurück geben";
+"Put Back" = "Zurückstellen";
 
-"Remove Shortcut" = "Entfernen Sie die Verknüpfung";
+"Remove Shortcut" = "Verknüpfung entfernen";
 
 "Create Shortcut" = "Verknüpfung erstellen";
 
-"Make Zip" = "Zip machen";
+"Make Zip" = "Zip erstellen";
 
 "Email" = "Email";
 
-"Open In" = "Öffnen Sie In";
+"Open In" = "Öffnen in";
 
 "Upload" = "Hochladen";
 
-"Share" = "Aktie";
+"Share" = "Teilen";
 
 "Delete" = "Löschen";
 
@@ -149,19 +149,19 @@
 
 "Dismiss" = "Entlassen";
 
-"Item moved to Document folder" = "Artikel wurde in den Dokumentordner verschoben";
+"Item moved to Document folder" = "Das Objekt wurde in den Dokumentordner verschoben";
 
 "Copy" = "Kopieren";
 
-"Move" = "Bewegung";
+"Move" = "Verschieben";
 
 "Recover Recording" = "Aufnahme wiederherstellen";
 
-"Not save recording found. Do you want save it?" = "Aufnahme nicht speichern gefunden. Willst du es speichern?";
+"Not save recording found. Do you want save it?" = "Nicht gespeicherte Aufnahme gefunden. Wollen Sie es speichern?";
 
-"Save" = "sparen";
+"Save" = "Sichern";
 
-"Recent" = "Kürzlich";
+"Recent" = "Zuletzt";
 
 "WiFi Share" = "WLAN teilen";
 
@@ -177,7 +177,7 @@
 
 "PDF Scanner & Audio Recording" = "PDF-Scanner & Audioaufnahme";
 
-"Scan more than 100 pages and convert to PDF & Quick Audio" = "Scannen Sie mehr als 100 Seiten und konvertieren Sie sie in PDF & Quick Audio";
+"Scan more than 100 pages and convert to PDF & Quick Audio" = "Mehr als 100 Seiten scannen und konvertieren es in PDF & Quick Audio";
 
 "Import anything you want" = "Importieren Sie alles, was Sie wollen";
 
@@ -191,9 +191,9 @@
 
 "Select multiple files to copy, move, email, upload etc." = "Wählen Sie mehrere Dateien zum Kopieren, Verschieben, E-Mailen, Hochladen usw.";
 
-"File Sharing" = "Datenaustausch";
+"File Sharing" = "Dateifreigabe";
 
-"Wifi secured file sharing." = "Wifi gesicherte Dateifreigabe.";
+"Wifi secured file sharing." = "WLAN gesicherte Dateifreigabe.";
 
 "Cloud sharing" = "Cloud-Freigabe";
 
@@ -203,15 +203,15 @@
 
 "File Manager" = "Dateimanager";
 
-"Zip" = "Postleitzahl";
+"Zip" = "Zip";
 
 "WiFi Share Off" = "WLAN teilen aus";
 
-"Empty Trash" = "Leerer Müll";
+"Empty Trash" = "Leerer Papierkorb";
 
 "Empty" = "Leer";
 
-"Clear" = "klar";
+"Clear" = "Leeren";
 
 "Action" = "Aktion";
 
@@ -221,7 +221,7 @@
 
 "Cancelled" = "Abgebrochen";
 
-"Done" = "Erledigt";
+"Done" = "Fertig";
 
 "Edit" = "Bearbeiten";
 
@@ -237,7 +237,7 @@
 
 "Scanner" = "Scanner";
 
-"Note" = "Hinweis";
+"Note" = "Notiz";
 
 "Drawing" = "Zeichnung";
 
@@ -261,7 +261,7 @@
 
 "File imported successfully!" = "Datei erfolgreich importiert!";
 
-"Error" = "Error";
+"Error" = "Fehler";
 
 "File uploaded successfully!" = "Datei erfolgreich hochgeladen!";
 
@@ -273,67 +273,67 @@
 
 "Clipboard is Empty" = "Die Zwischenablage ist leer";
 
-"Import File(s)" = "Datei (en) importieren";
+"Import File(s)" = "Datei(en) importieren";
 
 "Document Drives" = "Dokument Laufwerke";
 
-"Clouds" = "Wolken";
+"Clouds" = "Clouds";
 
 "Imported successfully!" = "Erfolgreich importiert!";
 
-"Import video successfully!" = "Video erfolgreich importieren!";
+"Import video successfully!" = "Video erfolgreich importiert!";
 
 "Add Folder" = "Ordner hinzufügen";
 
-"New Folder With Selected Items" = "Neuer Ordner mit ausgewählten Elementen";
+"New Folder With Selected Items" = "Neuer Ordner mit ausgewählten Objekten";
 
 "New Folder" = "Neuer Ordner";
 
-"Enter folder name" = "Geben Sie den Ordnernamen ein";
+"Enter folder name" = "Ordnername eingeben";
 
 "Create" = "Erstellen";
 
-"Item with same name already exists" = "Artikel mit demselben Namen ist bereits vorhanden";
+"Item with same name already exists" = "Objekt mit demselben Namen ist bereits vorhanden";
 
-"Item with same name already exist at path" = "Artikel mit demselben Namen existiert bereits im Pfad";
+"Item with same name already exist at path" = "Objekt mit demselben Namen ist bereits im Pfad vorhanden";
 
 "Loading..." = "Wird geladen...";
 
-"Total Item(s)" = "Gesamtanzahl)";
+"Total Item(s)" = "Gesamtanzahl der Objekt(e)";
 
-"Are you sure?" = "Bist du sicher?";
+"Are you sure?" = "Sind Sie sicher?";
 
 "Create PDF" = "PDF erstellen";
 
-"File with same name already exist" = "Datei mit demselben Namen existiert bereits";
+"File with same name already exist" = "Datei mit demselben Namen ist bereits vorhanden";
 
 "Overwrite" = "Überschreiben";
 
-"Keep both" = "Behalte beides";
+"Keep both" = "Beide behalten";
 
 "Image to PDF" = "Bild zu PDF";
 
 "PDF Saved" = "PDF gespeichert";
 
-"Your %@ doesn't seem to have any other Apps installed that can open this document." = "Ihr% @ scheint keine anderen Apps installiert zu haben, die dieses Dokument öffnen können.";
+"Your %@ doesn't seem to have any other Apps installed that can open this document." = "Auf ihrem %@ scheinen keine anderen Apps installiert zu sein, die dieses Dokument öffnen können.";
 
 "No suitable Apps installed" = "Keine geeigneten Apps installiert";
 
-"Select destination folder to copy items" = "Wählen Sie den Zielordner zum Kopieren von Objekten";
+"Select destination folder to copy items" = "Zielordner auswählen, um Objekte zu kopieren";
 
-"MOVE" = "BEWEGUNG";
+"MOVE" = "VERSCHIEBEN";
 
-"CURRENT PLAYING AUDIO FILE CAN NOT MOVE." = "AKTUELLE WIEDERGABE AUDIO DATEI KANN NICHT BEWEGEN.";
+"CURRENT PLAYING AUDIO FILE CAN NOT MOVE." = "DIE AKTUELL WIEDERGEGEBENE AUDIODATEI KANN NICHT VERSCHOBEN WERDEN.";
 
 "Can't move into same directory" = "Kann nicht in dasselbe Verzeichnis verschoben werden";
 
 "Skip" = "Überspringen";
 
-"Select destination folder to move items" = "Wählen Sie den Zielordner, um Objekte zu verschieben";
+"Select destination folder to move items" = "Zielordner auswählen, um Objekte zu verschieben";
 
-"Delete File(s)" = "Dateien löschen)";
+"Delete File(s)" = "Datei(en) löschen";
 
-"CURRENT PLAYING AUDIO FILE CAN NOT DELETE." = "AKTUELLE WIEDERGABE AUDIO DATEI KANN NICHT LÖSCHEN.";
+"CURRENT PLAYING AUDIO FILE CAN NOT DELETE." = "DIE AKTUELL WIEDERGEGEBENE AUDIODATEI KANN NICHT GELÖSCHT WERDEN.";
 
 "DELETE" = "LÖSCHEN";
 
@@ -341,25 +341,25 @@
 
 "Can't send mail. Please Check your mail account setup" = "Mail kann nicht gesendet werden. Bitte überprüfen Sie Ihre E-Mail-Kontoeinrichtung";
 
-"Your attachment(s) size is large" = "Die Größe Ihrer Anhänge ist groß";
+"Your attachment(s) size is large" = "Ihre Anhänge sind groß";
 
 "This may create problem while sending mail" = "Dies kann zu Problemen beim Senden von E-Mails führen";
 
-"Proceed any way" = "Fahre dennoch fort";
+"Proceed any way" = "Dennoch fortfahren";
 
-"Upload File(s)" = "Daten hochladen)";
+"Upload File(s)" = "Datei(en) hochladen";
 
 "Enter name" = "Name eingeben";
 
 "Archive" = "Archiv";
 
-"Successfully zipped!" = "Erfolgreich gezippt!";
+"Successfully zipped!" = "Erfolgreich komprimiert!";
 
-"Please wait" = "Warten Sie mal";
+"Please wait" = "Bitte warten";
 
 "Shortcut created" = "Verknüpfung erstellt";
 
-"Shortcut add to categories list successfully" = "Verknüpfung zur Liste der Kategorien erfolgreich hinzufügen";
+"Shortcut add to categories list successfully" = "Verknüpfung zur Kategorienliste erfolgreich hinzugefügt";
 
 "Private Documents" = "Private Dokumente";
 
@@ -373,17 +373,17 @@
 
 "Help" = "Hilfe";
 
-"View Welcome tutorials" = "Zeigen Sie Willkommens-Tutorials an";
+"View Welcome tutorials" = "Willkommens-Tutorials anzeigen";
 
-"Settings" = "die Einstellungen";
+"Settings" = "Einstellungen";
 
-"optional" = "wahlweise";
+"optional" = "optional";
 
 "FTP Share" = "FTP teilen";
 
-"Error in starting FTP Share. Check your WiFi Connection" = "Fehler beim Starten der FTP-Freigabe. Überprüfen Sie Ihre WiFi-Verbindung";
+"Error in starting FTP Share. Check your WiFi Connection" = "Fehler beim Starten der FTP-Freigabe. Überprüfen Sie Ihre WLAN-Verbindung";
 
-"Error in starting WiFi Share. Check your WiFi Connection" = "Fehler beim Starten der WLAN-Freigabe. Überprüfen Sie Ihre WiFi-Verbindung";
+"Error in starting WiFi Share. Check your WiFi Connection" = "Fehler beim Starten der WLAN-Freigabe. Überprüfen Sie Ihre WLAN-Verbindung";
 
 "File Manager Settings" = "Datei-Manager-Einstellungen";
 
@@ -397,41 +397,41 @@
 
 "Password" = "Passwort";
 
-"Rate File Manager" = "Bewerten Sie den Dateimanager";
+"Rate File Manager" = "Dateimanager bewerten";
 
 "Send Feedback" = "Feedback abschicken";
 
 "Tell a Friend" = "Erzählen Sie einem Freund";
 
-"Report a bug" = "Melde einen technischen Fehler";
+"Report a bug" = "Melde einen Fehler";
 
-"More Apps" = "Mehr Apps";
+"More Apps" = "Weitere Apps";
 
-"Buy File Manager Pro" = "Kaufe Dateimanager Pro";
+"Buy File Manager Pro" = "Dateimanager Pro kaufen";
 
 "Scanner Settings" = "Scannereinstellungen";
 
-"Unlock Items" = "Gegenstände freischalten";
+"Unlock Items" = "Objekte freischalten";
 
 "Addons" = "Addons";
 
 "Feedback and Share" = "Feedback und teilen";
 
-"Use Custom PDF Viewer" = "Verwenden Sie den benutzerdefinierten PDF-Viewer";
+"Use Custom PDF Viewer" = "Benutzerdefinierten PDF-Viewer verwenden";
 
-"Enable file sharing over WiFi" = "Aktivieren Sie die Dateifreigabe über WiFi";
+"Enable file sharing over WiFi" = "Dateifreigabe über WLAN aktivieren";
 
-"in your computer browser to manage files shared with WiFi" = "in Ihrem Computer-Browser, um mit WiFi freigegebene Dateien zu verwalten";
+"in your computer browser to manage files shared with WiFi" = "in Ihrem Computer-Browser, um mit WLAN freigegebene Dateien zu verwalten";
 
-"Enable file sharing over FTP" = "Aktivieren Sie die Dateifreigabe über FTP";
+"Enable file sharing over FTP" = "Dateifreigabe über FTP aktivieren";
 
-"Enable to use Custom PDF Viewer instead of using the built in PDF viewer." = "Aktivieren Sie den benutzerdefinierten PDF-Viewer anstelle des integrierten PDF-Viewers.";
+"Enable to use Custom PDF Viewer instead of using the built in PDF viewer." = "Benutzerdefinierten PDF-Viewer aktivieren anstelle den integrierten PDF-Viewer.";
 
 "Custom PDF Viewer will not be able to open large PDF files" = "Der benutzerdefinierte PDF-Viewer kann keine großen PDF-Dateien öffnen";
 
 "Send Mail" = "E-Mail senden";
 
-"Use Image Editor" = "Verwenden Sie den Bild-Editor";
+"Use Image Editor" = "Bildbearbeiter verwenden";
 
 "Original" = "Original";
 
@@ -439,51 +439,51 @@
 
 "Image Editor" = "Bildbearbeiter";
 
-"Image Scan Quality" = "Bild-Scan-Qualität";
+"Image Scan Quality" = "Bild-Scanqualität";
 
-"Use image editor while adding image to PDF scanner" = "Verwenden Sie den Bildeditor, während Sie dem PDF-Scanner ein Bild hinzufügen";
+"Use image editor while adding image to PDF scanner" = "Bildbearbeiter verwenden, während Sie dem PDF-Scanner ein Bild hinzufügen";
 
-"Compressed image used for fast process of scan PDF and reduce size" = "Komprimiertes Bild, das für den schnellen Scanvorgang von PDFs verwendet wird und die Größe reduziert";
+"Compressed image used for fast process of scan PDF and reduce size" = "Komprimiertes Bild, das für den schnellen Scanvorgang von PDF verwendet wird um die Größe zu reduzieren";
 
-"Player Settings" = "Spielereinstellungen";
+"Player Settings" = "Player-Einstellungen";
 
 "Passcode Lock" = "Passwortsperre";
 
-"On" = "Auf";
+"On" = "An";
 
-"Off" = "aus";
+"Off" = "Aus";
 
 "Change Password" = "Passwort ändern";
 
-"Touch Id Lock" = "Tippen Sie auf Id-Sperre";
+"Touch Id Lock" = "Touch ID-Sperre";
 
-"Export" = "Export";
+"Export" = "Exportieren";
 
 "App Password Lock" = "App-Passwortsperre";
 
 "Private Files" = "Private Dateien";
 
-"Touch Id" = "Berührungsidentifikation";
+"Touch Id" = "Touch ID";
 
 "On app launch or resume it will prompt for entering password" = "Beim Start oder der Wiederaufnahme der App wird zur Eingabe des Passworts aufgefordert";
 
 "Change password of your private files" = "Ändern Sie das Passwort Ihrer privaten Dateien";
 
-"Change Passcode" = "Kennwort ändern";
+"Change Passcode" = "Passwort ändern";
 
 "Turn Off" = "Abschalten";
 
 "Old Password" = "Altes Passwort";
 
-"Show Thumbnail" = "Miniaturansicht anzeigen";
+"Show Thumbnail" = "Vorschaubild anzeigen";
 
-"Recent Items" = "Letzte Artikel";
+"Recent Items" = "Letzte Objekte";
 
-"Private Items" = "Private Gegenstände";
+"Private Items" = "Private Objekte";
 
-"Utility Folder Hide/Show" = "Dienstprogrammordner ausblenden / anzeigen";
+"Utility Folder Hide/Show" = "Dienstprogrammordner ausblenden/anzeigen";
 
-"Thumbnails are not generated for file size larger than 5MB." = "Thumbnails werden nicht für Dateigröße größer als 5 MB generiert.";
+"Thumbnails are not generated for file size larger than 5MB." = "Vorschaubilder werden nicht für Dateigrößen größer als 5 MB generiert.";
 
 "Memory Capacity of" = "Speicherkapazität von";
 
@@ -491,33 +491,33 @@
 
 "Free memory available." = "Freier Speicher verfügbar.";
 
-"Hide/Show Cloud" = "Wolke ein- / ausblenden";
+"Hide/Show Cloud" = "Cloud ausblenden/anzeigen";
 
-"Turn off the cloud it will hide from the list" = "Schalten Sie die Cloud aus, damit sie sich nicht mehr in der Liste befindet";
+"Turn off the cloud it will hide from the list" = "Die Cloud ausschalten, damit es nicht mehr in der Liste befindet";
 
-"Select Prefix Label" = "Wählen Sie Präfixbezeichnung";
+"Select Prefix Label" = "Präfixbezeichnung auswählen";
 
-"Add Label" = "Etikett hinzufügen";
+"Add Label" = "Bezeichnung hinzufügen";
 
-"Enter Label name" = "Geben Sie den Labelnamen ein";
+"Enter Label name" = "Bezeichnungname eingeben";
 
 "Uploading" = "Hochladen";
 
-"Item(s)" = "Artikel)";
+"Item(s)" = "Objekt(e)";
 
-"Open Uploads" = "Öffnen Sie die Uploads";
+"Open Uploads" = "Uploads öffnen";
 
-"Shortcut" = "Abkürzung";
+"Shortcut" = "Verknüpfung";
 
 "Cloud List" = "Cloud-Liste";
 
-"Navigate to sub folders and create shortcuts" = "Navigieren Sie zu Unterordnern und erstellen Sie Verknüpfungen";
+"Navigate to sub folders and create shortcuts" = "Zu Unterordnern navigieren und Verknüpfungen erstellen";
 
 "No cloud shortcut found" = "Keine Cloud-Verknüpfung gefunden";
 
 "Are you sure to logout?" = "Sind Sie sicher, dass Sie sich abmelden?";
 
-"Shortcut add to cloud list successfully" = "Verknüpfung zur Cloud-Liste erfolgreich hinzufügen";
+"Shortcut add to cloud list successfully" = "Verknüpfung zur Cloud-Liste erfolgreich hinzugefügt;
 
 "New File" = "Neue Datei";
 
@@ -533,21 +533,21 @@
 
 "Do you want to save document?" = "Möchten Sie ein Dokument speichern?";
 
-"want to add this?" = "Willst du das hinzufügen?";
+"want to add this?" = "Wollen Sie das hinzufügen?";
 
 "Save File" = "Datei speichern";
 
 "New Text File" = "Neue Textdatei";
 
-"want to save document?" = "möchte Dokument speichern?";
+"want to save document?" = "Wollen Sie das Dokument speichern?";
 
 "Text File Saved" = "Textdatei gespeichert";
 
 "Text to PDF" = "Text zu PDF";
 
-"File with same name exist" = "Datei mit demselben Namen existiert";
+"File with same name exist" = "Datei mit demselben Namen ist bereits vorhanden";
 
-"Send by E-mail" = "Per E-Mail gesendet";
+"Send by E-mail" = "Per E-Mail versenden";
 
 "Add Bookmark" = "Lesezeichen hinzufügen";
 
@@ -555,27 +555,27 @@
 
 "Add Page" = "Seite hinzufügen";
 
-"Select File" = "Datei aussuchen";
+"Select File" = "Datei auswählen";
 
 "Hand Drawing" = "Handzeichnung";
 
-"Map Snap" = "Kartenfang";
+"Map Snap" = "Kartenausschnitt";
 
 "Rich Text" = "Rich Text";
 
-"Select files to add" = "Wählen Sie die hinzuzufügenden Dateien aus";
+"Select files to add" = "Dateien zum Hinzufügen auswählen";
 
 "Edit Images?" = "Bilder bearbeiten?";
 
 "Save PDF" = "PDF speichern";
 
-"Do you want to save PDF?" = "Möchten Sie PDF speichern?";
+"Do you want to save PDF?" = "Möchten Sie die PDF speichern?";
 
 "Creating PDF" = "PDF erstellen";
 
-"Clear Pages" = "Seiten löschen";
+"Clear Pages" = "Seiten leeren";
 
-"Are you sure to clear list of created pages?" = "Möchten Sie die Liste der erstellten Seiten wirklich löschen?";
+"Are you sure to clear list of created pages?" = "Möchten Sie die Liste der erstellten Seiten wirklich leeren?";
 
 "This Image" = "Dieses Bild";
 
@@ -603,9 +603,9 @@
 
 "Format" = "Format";
 
-"Move to trash" = "Ab in den Müll";
+"Move to trash" = "In den Papierkorb verschieben";
 
-"CURRENT PLAYING AUDIO FILE CAN NOT DELETE" = "AKTUELLE WIEDERGABE AUDIO DATEI KANN NICHT LÖSCHEN";
+"CURRENT PLAYING AUDIO FILE CAN NOT DELETE" = "AKTUELL WIEDERGEGBENE AUDIODATEI KANN NICHT GELÖSCHT WERDEN";
 
 "Warning" = "Warnung";
 
@@ -613,7 +613,7 @@
 
 "Save Recording" = "Aufnahme speichern";
 
-"Enter file name" = "Geben Sie den Dateinamen ein";
+"Enter file name" = "Dateiname eingeben";
 
 "Error in saving recording" = "Fehler beim Speichern der Aufzeichnung";
 
@@ -623,7 +623,7 @@
 
 "Recording" = "Aufzeichnung";
 
-"Select Option" = "Wähle eine Option";
+"Select Option" = "Option auswählen";
 
 "Music Player" = "Musikspieler";
 
@@ -635,15 +635,15 @@
 
 "Protected files cannot be imported." = "Geschützte Dateien können nicht importiert werden.";
 
-"Import Failed" = "Import fehlgeschlagen";
+"Import Failed" = "Importieren fehlgeschlagen";
 
-"Improt successfully!" = "Improt erfolgreich!";
+"Improt successfully!" = "Importieren erfolgreich!";
 
-"items" = "Artikel";
+"items" = "Objekte";
 
-"Stroke Width" = "Strichbreite";
+"Stroke Width" = "Strichstärke";
 
-"Pick Color" = "Farbe wählen";
+"Pick Color" = "Farbe auswählen";
 
 "Drawing Saved - " = "Zeichnung gespeichert -";
 
@@ -655,7 +655,7 @@
 
 "Resume" = "Fortsetzen";
 
-"Stop" = "Halt";
+"Stop" = "Anhaltem";
 
 "selected" = "ausgewählt";
 
@@ -665,9 +665,9 @@
 
 "Add" = "Hinzufügen";
 
-"Imported Files" = "Importierte Dateien";
+"Imported Files" = "Dateien importieren";
 
-"Add New Label" = "Neues Label hinzufügen";
+"Add New Label" = "Neue Bezeichnung hinzufügen";
 
 "Date" = "Datum";
 
@@ -675,7 +675,7 @@
 
 "Spotlight Search" = "Spotlight-Suche";
 
-"Designed and Developed By" = "Entwickelt und entwickelt von";
+"Designed and Developed By" = "Entworfen und entwickelt von";
 
 "Photos" = "Fotos";
 
@@ -685,11 +685,11 @@
 
 "No" = "Nein";
 
-"Landscape" = "Landschaft";
+"Landscape" = "Querformat";
 
 "Portrait" = "Porträt";
 
-"Owner Password" = "Besitzer Passwort";
+"Owner Password" = "Besitzer-Passwort";
 
 "User Password" = "Benutzer-Passwort";
 
@@ -701,17 +701,17 @@
 
 "Title" = "Titel";
 
-"Subject" = "Gegenstand";
+"Subject" = "Betreff";
 
 "Keywords" = "Schlüsselwörter";
 
 "PDF Details" = "PDF Details";
 
-"Enter search text here" = "Geben Sie hier den Suchtext ein";
+"Enter search text here" = "Suchtext hier eingeben";
 
-"Standrad" = "Standrad";
+"Standrad" = "Standard";
 
-"Sattelite" = "Sattelite";
+"Sattelite" = "Sattelit";
 
 "Hybrid" = "Hybrid";
 
@@ -735,27 +735,27 @@
 
 "Office WebDav Server" = "Büro WebDav Server";
 
-"Enter WebDav URL" = "Geben Sie die WebDAV-URL ein";
+"Enter WebDav URL" = "WebDAV-URL eingeben";
 
 "Required" = "Erforderlich";
 
-"Optional" = "Wahlweise";
+"Optional" = "Optional";
 
 "Uploading..." = "Hochladen ...";
 
 "Importing..." = "Importieren ...";
 
-"upload(s) started in background" = "Upload (s) gestartet im Hintergrund";
+"upload(s) started in background" = "Upload(s) im Hintergrund gestartet";
 
 "Office FTP Server" = "Office-FTP-Server";
 
 "Enter Name" = "Name eingeben";
 
-"Enter Host" = "Geben Sie den Host ein";
+"Enter Host" = "Host eingeben";
 
 "Cloud Upload" = "Cloud-Upload";
 
-"Failed" = "Gescheitert";
+"Failed" = "Fehlgeschlagen";
 
 "Dimensions" = "Maße";
 
@@ -767,9 +767,9 @@
 
 "Share & Action" = "Teilen & Aktion";
 
-"SHARE & ACTION" = "Teilen & Handeln";
+"SHARE & ACTION" = "TEILEN & AKTION";
 
-"Version" = "Ausführung";
+"Version" = "Version";
 
 "Pages" = "Seiten";
 
@@ -791,13 +791,13 @@
 
 "Audio channels" = "Audiokanäle";
 
-"Creator" = "Schöpfer";
+"Creator" = "Ersteller";
 
 "Producer" = "Hersteller";
 
-"None" = "Keiner";
+"None" = "Keine";
 
-"Drives" = "Fährt";
+"Drives" = "Antriebe";
 
 "Author" = "Autor";
 
@@ -813,9 +813,9 @@
 
 "Image compression" = "Bildkompression";
 
-"Confirm password" = "Bestätige das Passwort";
+"Confirm password" = "Passwort bestätigen";
 
-"New Password" = "Neues Kennwort";
+"New Password" = "Neues Passwort";
 
 "Password do not match" = "Passwort stimmt nicht überein";
 
@@ -823,13 +823,13 @@
 
 "Enter new password" = "Neues Passwort eingeben";
 
-"Enter confirm password" = "Geben Sie Passwort bestätigen ein";
+"Enter confirm password" = "Bestätigungspasswort eingeben";
 
 "Invalid old password" = "Ungültiges altes Passwort";
 
 "Connect to" = "Verbunden mit";
 
-"Check out this application on the App Store" = "Sehen Sie sich diese Anwendung im App Store an";
+"Check out this application on the App Store" = "Diese Anwendung im App Store ansehen";
 
 "Designed and Devloped By" = "Entworfen und entwickelt von";
 
@@ -837,9 +837,9 @@
 
 "Invalid password. Password do not match" = "Ungültiges Passwort. Passwort stimmt nicht überein";
 
-"Check out" = "Auschecken";
+"Check out" = "Ausprobierem";
 
-"Website Support" = "Website-Unterstützung";
+"Website Support" = "Webseite-Unterstützung";
 
 "FAQ" = "FAQ";
 
@@ -857,27 +857,27 @@
 
 "Create Note" = "Notiz erstellen";
 
-"Enter note title" = "Geben Sie den Titel ein";
+"Enter note title" = "Notiz-Titel eingeben";
 
-"Select Tag" = "Wählen Sie Tag";
+"Select Tag" = "Tag auswählen";
 
 "Add Folder Shortcut" = "Ordnerverknüpfung hinzufügen";
 
 "Add Local Folder Shortcut" = "Lokale Ordnerverknüpfung hinzufügen";
 
-"Add Cloud Shortcut" = "Fügen Sie eine Cloud-Verknüpfung hinzu";
+"Add Cloud Shortcut" = "Cloud-Verknüpfung hinzufügen";
 
-"Select folder to add shortcut" = "Wählen Sie den Ordner aus, um die Verknüpfung hinzuzufügen";
+"Select folder to add shortcut" = "Ordner auswählen, um die Verknüpfung hinzuzufügen";
 
 "Add to shortcut" = "Zu Verknüpfung hinzufügen";
 
 "Title" = "Titel";
 
-"Compressed image used for fast process and reduce size without losing quality" = "Komprimiertes Bild für schnelle Verarbeitung und Reduzierung der Größe ohne Qualitätsverlust";
+"Compressed image used for fast process and reduce size without losing quality" = "Komprimiertes Bild wird für die schnelle Verarbeitung und Reduzierung der Größe und das ohne Qualitätsverlust";
 
-"Authenticate and open File Manager." = "Authentifizieren und öffnen Sie den Dateimanager.";
+"Authenticate and open File Manager." = "Authentifizieren und Dateimanager öffnen.";
 
-"Authenticate and open Private Documents." = "Authentifizieren und öffnen Sie private Dokumente.";
+"Authenticate and open Private Documents." = "Authentifizieren und private Dokumente öffnen.";
 
 "Private Docs" = "Private Dokumente";
 
@@ -885,6 +885,6 @@
 
 "Pause" = "Pause";
 
-"Select Notebook" = "Wählen Sie Notizbuch";
+"Select Notebook" = "Notizbuch auswählen";
 
 
