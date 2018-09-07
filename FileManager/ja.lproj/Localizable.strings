@@ -1,0 +1,889 @@
+/*
+ Localizable.strings
+ Recorder
+ 
+ Created by LiveBird on 17/10/13.
+ Copyright (c) 2013 LiveBird. All rights reserved.
+ */
+
+//FileList
+"Forgot Password" = "パスワードをお忘れですか";
+
+"Error in sending request" = "リクエスト送信エラー";
+
+"File Manager Pro" = "ファイルマネージャPro";
+
+"Create PDF with unlimited pages" = "無制限のページでPDFを作成";
+
+"Unlock Hand drawing" = "手描きのロックを解除する";
+
+"Unlock Text File creator" = "テキストファイルの作成者のロックを解除する";
+
+"Unlock Audio Recording" = "オーディオ録音のロックを解除する";
+
+"Unlock clouds" = "雲のロックを解除する";
+
+"Remove ads" = "広告を削除";
+
+"Upgrade" = "アップグレード";
+
+"Restore Purchases" = "購入を復元";
+
+"Cancel" = "キャンセル";
+
+"Crash Report" = "クラッシュレポート";
+
+"File Manager was closed abnormally. Do you want to send that crash report to us ? It will help us to improve File Manager app." = "ファイルマネージャが異常終了しました。そのクラッシュレポートを私たちに送ってもよろしいですか？これは、File Managerアプリケーションを改善するのに役立ちます。";
+
+"Send" = "送信";
+
+"Always Send Automatically" = "常に自動的に送信";
+
+"Category" = "カテゴリー";
+
+"Documents" = "ドキュメント";
+
+"Import" = "インポート";
+
+"File imported" = "インポートされたファイル";
+
+"Ok" = "OK";
+
+"Open" = "開いた";
+
+"Reveal" = "明らかにする";
+
+"Import File" = "インポートファイル";
+
+"Enter Passcode" = "パスコードを入力";
+
+"Enter Password" = "パスワードを入力する";
+
+"You have entered an incorrect passcode too many times." = "間違ったパスコードを入力した回数が多すぎます。";
+
+"Dropbox" = "ドロップボックス";
+
+"OneDrive" = "OneDrive";
+
+"SugarSync" = "SugarSync";
+
+"Google Drive" = "グーグルドライブ";
+
+"Box.net" = "Box.net";
+
+"WebDAV Server" = "WebDAVサーバー";
+
+"FTP Server" = "FTPサーバー";
+
+"Recent File" = "最近のファイル";
+
+"Protected PDF" = "保護されたPDF";
+
+"Enter PDF Password" = "PDFパスワードを入力";
+
+"Open PDF" = "PDFを開く";
+
+"Unable to open PDF" = "PDFを開くことができません";
+
+"Images" = "イメージ";
+
+"Video" = "ビデオ";
+
+"Zips" = "ジップス";
+
+"Audio" = "オーディオ";
+
+"Wifi" = "Wi-Fi";
+
+"iTunes Files" = "iTunesファイル";
+
+"Trash" = "ごみ";
+
+"iCloud" = "iCloud";
+
+"Unzip Archive" = "アーカイブの解凍";
+
+"Do you want unzip file?" = "ファイルを解凍しますか？";
+
+"Unzip" = "解凍する";
+
+"Enter your email id" = "あなたのメールアドレスを入力してください";
+
+"Submit" = "提出する";
+
+"Private" = "プライベート";
+
+"You have not set password for your private documents yet.Do you want set it now?" = "プライベートドキュメントのパスワードをまだ設定していません。今すぐ設定しますか？";
+
+"Set" = "セット";
+
+"Later" = "後で";
+
+"Put Back" = "戻す";
+
+"Remove Shortcut" = "ショートカットを削除";
+
+"Create Shortcut" = "ショートカットを作成";
+
+"Make Zip" = "郵便番号を作る";
+
+"Email" = "Eメール";
+
+"Open In" = "開く";
+
+"Upload" = "アップロード";
+
+"Share" = "シェア";
+
+"Delete" = "削除";
+
+"Rename" = "名前を変更する";
+
+"More Info" = "詳細情報";
+
+"Microphone Access Denied" = "マイクアクセスが拒否されました";
+
+"This app requires access to your device's Microphone." = "このアプリはあなたのデバイスのマイクにアクセスする必要があります。";
+
+"Please enable Microphone access for File Manager in Settings / Privacy / Microphone" = "設定/プライバシー/マイクでファイルマネージャのマイクアクセスを有効にしてください";
+
+"Dismiss" = "却下する";
+
+"Item moved to Document folder" = "アイテムがドキュメントフォルダに移動さ​​れました";
+
+"Copy" = "コピー";
+
+"Move" = "移動";
+
+"Recover Recording" = "録音を復元する";
+
+"Not save recording found. Do you want save it?" = "記録を保存しませんでした。あなたはそれを保存したいですか？";
+
+"Save" = "セーブ";
+
+"Recent" = "最近";
+
+"WiFi Share" = "WiFi共有";
+
+"WiFi Sharing is off. Do you want to enable it?" = "WiFi共有はオフです。それを有効にしますか？";
+
+"Enable" = "有効にする";
+
+"Advance File Manager" = "アドバンスファイルマネージャー";
+
+"Slide to show options." = "スライドしてオプションを表示します。";
+
+"delete, rename, mail, upload and more" = "削除、名前変更、メール、アップロードなど";
+
+"PDF Scanner & Audio Recording" = "PDFスキャナ＆オーディオレコーディング";
+
+"Scan more than 100 pages and convert to PDF & Quick Audio" = "100ページ以上をスキャンし、PDFとクイックオーディオに変換";
+
+"Import anything you want" = "必要なものをインポートする";
+
+"Import Photo, Video, Music." = "写真、ビデオ、音楽をインポートします。";
+
+"Import From Cloud & Drives." = "クラウドとドライブからインポートします。";
+
+"Import From Clipboard." = "クリップボードからインポートする。";
+
+"Faster than ever" = "以前より速く";
+
+"Select multiple files to copy, move, email, upload etc." = "コピー、移動、電子メール、アップロードなど複数のファイルを選択";
+
+"File Sharing" = "ファイル共有";
+
+"Wifi secured file sharing." = "Wifiの安全なファイル共有。";
+
+"Cloud sharing" = "クラウド共有";
+
+"Share files to cloud quickly." = "ファイルをすぐにクラウドに共有します。";
+
+"More" = "もっと";
+
+"File Manager" = "ファイルマネージャー";
+
+"Zip" = "ジップ";
+
+"WiFi Share Off" = "WiFi共有";
+
+"Empty Trash" = "空のごみ箱";
+
+"Empty" = "空の";
+
+"Clear" = "クリア";
+
+"Action" = "アクション";
+
+"Waiting..." = "待っています...";
+
+"Completed" = "完成しました";
+
+"Cancelled" = "キャンセル";
+
+"Done" = "完了";
+
+"Edit" = "編集";
+
+"Create Folder" = "フォルダーを作る";
+
+"Folder created." = "フォルダが作成されました。";
+
+"Folder not create." = "フォルダが作成できません。";
+
+"Creating folder..." = "フォルダを作成しています...";
+
+"Folder create failed." = "フォルダの作成に失敗しました。";
+
+"Scanner" = "スキャナ";
+
+"Note" = "注意";
+
+"Drawing" = "お絵かき";
+
+"Recorder" = "レコーダー";
+
+"Photo Library" = "フォトライブラリ";
+
+"Camera" = "カメラ";
+
+"Video Library" = "ビデオライブラリ";
+
+"Cloud & Drive" = "クラウド＆ドライブ";
+
+"Music Library" = "音楽ライブラリ";
+
+"Imported Successfully!" = "輸入成功！";
+
+"Some error in importing music." = "音楽をインポートする際に何らかのエラーが発生しました。";
+
+"Importing" = "インポート";
+
+"File imported successfully!" = "ファイルが正常にインポートされました！";
+
+"Error" = "エラー";
+
+"File uploaded successfully!" = "ファイルが正常にアップロードされました！";
+
+"Clipboard" = "クリップボード";
+
+"Images imported" = "インポートされた画像";
+
+"Image imported" = "インポートされた画像";
+
+"Clipboard is Empty" = "クリップボードが空です";
+
+"Import File(s)" = "ファイルのインポート";
+
+"Document Drives" = "ドキュメントドライブ";
+
+"Clouds" = "雲";
+
+"Imported successfully!" = "正常にインポートされました！";
+
+"Import video successfully!" = "ビデオを正常にインポート！";
+
+"Add Folder" = "フォルダーを追加";
+
+"New Folder With Selected Items" = "選択した項目を含む新しいフォルダ";
+
+"New Folder" = "新しいフォルダ";
+
+"Enter folder name" = "フォルダ名を入力";
+
+"Create" = "作成する";
+
+"Item with same name already exists" = "同じ名前の商品は既に存在します";
+
+"Item with same name already exist at path" = "パスに同じ名前のアイテムが既に存在します";
+
+"Loading..." = "読み込んでいます...";
+
+"Total Item(s)" = "合計項目";
+
+"Are you sure?" = "本気ですか？";
+
+"Create PDF" = "PDFを作成";
+
+"File with same name already exist" = "同じ名前のファイルが既に存在します";
+
+"Overwrite" = "上書き";
+
+"Keep both" = "両方を保つ";
+
+"Image to PDF" = "PDFへのイメージ";
+
+"PDF Saved" = "PDFが保存されました";
+
+"Your %@ doesn't seem to have any other Apps installed that can open this document." = "あなたの％@はこの文書を開くことができる他のAppsをインストールしていないようです。";
+
+"No suitable Apps installed" = "適切なAppsがインストールされていない";
+
+"Select destination folder to copy items" = "アイテムをコピーするコピー先フォルダを選択";
+
+"MOVE" = "動く";
+
+"CURRENT PLAYING AUDIO FILE CAN NOT MOVE." = "現在再生中のオーディオファイルは移動できません。";
+
+"Can't move into same directory" = "同じディレクトリに移動できません";
+
+"Skip" = "スキップ";
+
+"Select destination folder to move items" = "アイテムを移動するための保存先フォルダを選択";
+
+"Delete File(s)" = "ファイルを削除する";
+
+"CURRENT PLAYING AUDIO FILE CAN NOT DELETE." = "現在再生中のオーディオファイルは削除できません。";
+
+"DELETE" = "削除";
+
+"Mail" = "郵便物";
+
+"Can't send mail. Please Check your mail account setup" = "メールを送信できません。メールアカウントの設定を確認してください";
+
+"Your attachment(s) size is large" = "あなたの添付ファイルのサイズが大きい";
+
+"This may create problem while sending mail" = "メールの送信中に問題が発生することがあります";
+
+"Proceed any way" = "とにかく続行";
+
+"Upload File(s)" = "ファイルをアップロードする";
+
+"Enter name" = "名前を入力";
+
+"Archive" = "アーカイブ";
+
+"Successfully zipped!" = "正常に圧縮されました！";
+
+"Please wait" = "お待ちください";
+
+"Shortcut created" = "ショートカットを作成しました";
+
+"Shortcut add to categories list successfully" = "ショートカットをカテゴリリストに追加できました";
+
+"Private Documents" = "私的文書";
+
+"Invalid Password" = "無効なパスワード";
+
+"Retry" = "リトライ";
+
+"Are you sure you want to logout?" = "ログアウトしてもよろしいですか？";
+
+"Logout" = "ログアウト";
+
+"Help" = "助けて";
+
+"View Welcome tutorials" = "ようこそチュートリアルを表示する";
+
+"Settings" = "設定";
+
+"optional" = "オプション";
+
+"FTP Share" = "FTP共有";
+
+"Error in starting FTP Share. Check your WiFi Connection" = "FTP共有を開始する際にエラーが発生しました。あなたのWiFi接続を確認する";
+
+"Error in starting WiFi Share. Check your WiFi Connection" = "WiFi共有を開始する際にエラーが発生しました。あなたのWiFi接続を確認する";
+
+"File Manager Settings" = "ファイルマネージャの設定";
+
+"Security Settings" = "セキュリティ設定";
+
+"Custom PDF Viewer" = "カスタムPDFビューア";
+
+"Cloud Settings" = "クラウドの設定";
+
+"Username" = "ユーザー名";
+
+"Password" = "パスワード";
+
+"Rate File Manager" = "レートファイルマネージャ";
+
+"Send Feedback" = "フィードバックを送信";
+
+"Tell a Friend" = "友達に伝える";
+
+"Report a bug" = "バグを報告";
+
+"More Apps" = "より多くのアプリケーション";
+
+"Buy File Manager Pro" = "File Manager Proを購入する";
+
+"Scanner Settings" = "スキャナの設定";
+
+"Unlock Items" = "アイテムのロックを解除する";
+
+"Addons" = "アドオン";
+
+"Feedback and Share" = "フィードバックと共有";
+
+"Use Custom PDF Viewer" = "カスタムPDFビューアを使用する";
+
+"Enable file sharing over WiFi" = "WiFi経由でのファイル共有を有効にする";
+
+"in your computer browser to manage files shared with WiFi" = "WiFiで共有されているファイルを管理するためのコンピュータのブラウザで";
+
+"Enable file sharing over FTP" = "FTP経由のファイル共有を有効にする";
+
+"Enable to use Custom PDF Viewer instead of using the built in PDF viewer." = "組み込みのPDFビューアを使用する代わりに、カスタムPDFビューアを使用できるようにします。";
+
+"Custom PDF Viewer will not be able to open large PDF files" = "カスタムPDFビューアは大きなPDFファイルを開くことができません";
+
+"Send Mail" = "メールを送る";
+
+"Use Image Editor" = "イメージエディタを使用する";
+
+"Original" = "元の";
+
+"Compressed" = "圧縮された";
+
+"Image Editor" = "イメージエディタ";
+
+"Image Scan Quality" = "イメージスキャン品質";
+
+"Use image editor while adding image to PDF scanner" = "画像をPDFスキャナに追加する際に画像エディタを使用する";
+
+"Compressed image used for fast process of scan PDF and reduce size" = "PDFをスキャンしてサイズを縮小するための圧縮画像";
+
+"Player Settings" = "プレーヤーの設定";
+
+"Passcode Lock" = "パスコードロック";
+
+"On" = "に";
+
+"Off" = "オフ";
+
+"Change Password" = "パスワードを変更する";
+
+"Touch Id Lock" = "タッチIDロック";
+
+"Export" = "輸出する";
+
+"App Password Lock" = "アプリパスワードロック";
+
+"Private Files" = "プライベートファイル";
+
+"Touch Id" = "タッチID";
+
+"On app launch or resume it will prompt for entering password" = "アプリの起動時または再開時にパスワードの入力を促すメッセージが表示されます";
+
+"Change password of your private files" = "プライベートファイルのパスワードを変更する";
+
+"Change Passcode" = "パスコードを変更する";
+
+"Turn Off" = "消す";
+
+"Old Password" = "以前のパスワード";
+
+"Show Thumbnail" = "サムネイルを表示する";
+
+"Recent Items" = "最近のアイテム";
+
+"Private Items" = "プライベートアイテム";
+
+"Utility Folder Hide/Show" = "ユーティリティフォルダ非表示/表示";
+
+"Thumbnails are not generated for file size larger than 5MB." = "5MBを超えるファイルサイズの場合、サムネイルは生成されません。";
+
+"Memory Capacity of" = "メモリ容量";
+
+"with" = "〜と";
+
+"Free memory available." = "空きメモリがあります。";
+
+"Hide/Show Cloud" = "クラウドを隠す/表示する";
+
+"Turn off the cloud it will hide from the list" = "リストから隠れる雲を消す";
+
+"Select Prefix Label" = "プレフィックスラベルを選択";
+
+"Add Label" = "ラベルを追加";
+
+"Enter Label name" = "ラベル名を入力";
+
+"Uploading" = "アップロード中";
+
+"Item(s)" = "アイテム（複数可）";
+
+"Open Uploads" = "開いているアップロード";
+
+"Shortcut" = "ショートカット";
+
+"Cloud List" = "クラウドリスト";
+
+"Navigate to sub folders and create shortcuts" = "サブフォルダに移動してショートカットを作成する";
+
+"No cloud shortcut found" = "クラウドショートカットが見つかりません";
+
+"Are you sure to logout?" = "ログアウトしてもよろしいですか？";
+
+"Shortcut add to cloud list successfully" = "ショートカットがクラウドリストに正常に追加されました";
+
+"New File" = "新しいファイル";
+
+"Drawing Settings" = "図面設定";
+
+"Stroke Color" = "ストロークカラー";
+
+"Eraser" = "消しゴム";
+
+"Background Color" = "背景色";
+
+"New Drawing" = "新しい図面";
+
+"Do you want to save document?" = "文書を保存しますか？";
+
+"want to add this?" = "これを追加したいですか？";
+
+"Save File" = "ファイルを保存";
+
+"New Text File" = "新しいテキストファイル";
+
+"want to save document?" = "ドキュメントを保存したいですか？";
+
+"Text File Saved" = "保存されたテキストファイル";
+
+"Text to PDF" = "PDFへのテキスト";
+
+"File with same name exist" = "同じ名前のファイルが存在します";
+
+"Send by E-mail" = "メールで送る";
+
+"Add Bookmark" = "ブックマークを追加";
+
+"Bookmarks" = "ブックマーク";
+
+"Add Page" = "ページを追加";
+
+"Select File" = "ファイルを選ぶ";
+
+"Hand Drawing" = "手描き";
+
+"Map Snap" = "マップスナップ";
+
+"Rich Text" = "リッチテキスト";
+
+"Select files to add" = "追加するファイルを選択";
+
+"Edit Images?" = "画像を編集しますか？";
+
+"Save PDF" = "PDFを保存";
+
+"Do you want to save PDF?" = "PDFを保存しますか？";
+
+"Creating PDF" = "PDFの作成";
+
+"Clear Pages" = "ページをクリアする";
+
+"Are you sure to clear list of created pages?" = "作成したページのリストをクリアしてもよろしいですか？";
+
+"This Image" = "この画像";
+
+"All Remaining Images" = "すべての残りの画像";
+
+"Rich text page" = "リッチテキストページ";
+
+"Allow Printing Content" = "印刷コンテンツの許可";
+
+"Allow Copying Content" = "コンテンツのコピーを許可する";
+
+"Orientation" = "オリエンテーション";
+
+"Encrypt PDF" = "PDFを暗号化する";
+
+"File Details" = "ファイルの詳細";
+
+"Name" = "名";
+
+"Date Created" = "作成日";
+
+"Date Modified" = "日付が変更されました";
+
+"Size" = "サイズ";
+
+"Format" = "フォーマット";
+
+"Move to trash" = "ゴミ箱に移動";
+
+"CURRENT PLAYING AUDIO FILE CAN NOT DELETE" = "現在再生中のオーディオファイルは削除できません";
+
+"Warning" = "警告";
+
+"Audio input hardware not available" = "オーディオ入力ハードウェアが利用できない";
+
+"Save Recording" = "録音を保存する";
+
+"Enter file name" = "ファイル名を入力してください";
+
+"Error in saving recording" = "録音保存エラー";
+
+"Saved Successfully" = "正常に保存";
+
+"Recording Deleted" = "録画を削除しました";
+
+"Recording" = "録音";
+
+"Select Option" = "選択肢を選択";
+
+"Music Player" = "音楽プレーヤー";
+
+"List" = "リスト";
+
+"Current Folder" = "現在のフォルダ";
+
+"All Folder" = "すべてのフォルダ";
+
+"Protected files cannot be imported." = "保護されたファイルはインポートできません。";
+
+"Import Failed" = "インポートに失敗しました";
+
+"Improt successfully!" = "成功した！";
+
+"items" = "アイテム";
+
+"Stroke Width" = "ストローク幅";
+
+"Pick Color" = "色を選ぶ";
+
+"Drawing Saved - " = "図面の保存 - ";
+
+"Low" = "低い";
+
+"Good" = "良い";
+
+"Best" = "ベスト";
+
+"Resume" = "を再開する";
+
+"Stop" = "やめる";
+
+"selected" = "選択された";
+
+"Current Folder" = "現在のフォルダ";
+
+"All Folder" = "すべてのフォルダ";
+
+"Add" = "追加";
+
+"Imported Files" = "インポートされたファイル";
+
+"Add New Label" = "新しいラベルを追加";
+
+"Date" = "日付";
+
+"Music" = "音楽";
+
+"Spotlight Search" = "スポットライト検索";
+
+"Designed and Developed By" = "設計者と開発者";
+
+"Photos" = "写真";
+
+"Photo Selected" = "写真を選択";
+
+"Yes" = "はい";
+
+"No" = "いいえ";
+
+"Landscape" = "風景";
+
+"Portrait" = "ポートレート";
+
+"Owner Password" = "オーナーパスワード";
+
+"User Password" = "ユーザーのパスワード";
+
+"File Name*" = "ファイル名*";
+
+"Author Name" = "著者名";
+
+"Creator Name" = "作成者名";
+
+"Title" = "タイトル";
+
+"Subject" = "件名";
+
+"Keywords" = "キーワード";
+
+"PDF Details" = "PDFの詳細";
+
+"Enter search text here" = "検索テキストをここに入力";
+
+"Standrad" = "スタンダード";
+
+"Sattelite" = "サテライト";
+
+"Hybrid" = "ハイブリッド";
+
+"BG Color" = "BGカラー";
+
+"Text Color" = "テキストの色";
+
+"RichText Editor" = "リッチテキストエディタ";
+
+"Record" = "記録";
+
+"Try again once you have an internet connection." = "インターネットに接続したら、もう一度お試しください。";
+
+"No internet connection" = "インターネット接続なし";
+
+"Completed of" = "完了した";
+
+"failed to upload" = "アップロードに失敗しました";
+
+"Login Failure" = "ログイン失敗";
+
+"Office WebDav Server" = "オフィス WebDavサーバー";
+
+"Enter WebDav URL" = "WebDav URLを入力してください";
+
+"Required" = "必須";
+
+"Optional" = "オプション";
+
+"Uploading..." = "アップロード中...";
+
+"Importing..." = "インポート中...";
+
+"upload(s) started in background" = "バックグラウンドでアップロードが開始されました";
+
+"Office FTP Server" = "オフィスFTPサーバー";
+
+"Enter Name" = "名前を入力";
+
+"Enter Host" = "ホストに入る";
+
+"Cloud Upload" = "クラウドアップロード";
+
+"Failed" = "失敗";
+
+"Dimensions" = "寸法";
+
+"Color Model" = "カラーモデル";
+
+"File Info" = "ファイル情報";
+
+"FILE INFO" = "ファイル情報";
+
+"Share & Action" = "シェア＆アクション";
+
+"SHARE & ACTION" = "シェア＆アクション";
+
+"Version" = "バージョン";
+
+"Pages" = "ページ";
+
+"Security" = "セキュリティ";
+
+"Allow Printing" = "印刷を許可する";
+
+"Allow Copying" = "コピーを許可する";
+
+"Password Encrypted" = "暗号化されたパスワード";
+
+"Duration" = "期間";
+
+"Codecs" = "コーデック";
+
+"Sample rate" = "サンプルレート";
+
+"Bit per sample" = "1サンプルあたりのビット数";
+
+"Audio channels" = "オーディオチャンネル";
+
+"Creator" = "クリエイター";
+
+"Producer" = "プロデューサー";
+
+"None" = "なし";
+
+"Drives" = "ドライブ";
+
+"Author" = "著者";
+
+"Description" = "説明";
+
+"Copyrights" = "著作権";
+
+"Contributor" = "貢献者";
+
+"Albumname" = "アルバム名";
+
+"Artist" = "アーティスト";
+
+"Image compression" = "画像圧縮";
+
+"Confirm password" = "パスワードを認証する";
+
+"New Password" = "新しいパスワード";
+
+"Password do not match" = "パスワードが一致しません";
+
+"Enter old password" = "古いパスワードを入力";
+
+"Enter new password" = "新しいパスワードを入力してください";
+
+"Enter confirm password" = "パスワードの確認を入力してください";
+
+"Invalid old password" = "古いパスワードが無効です";
+
+"Connect to" = "に接続します";
+
+"Check out this application on the App Store" = "このアプリケーションはアプリストアでチェックしてください";
+
+"Designed and Devloped By" = "設計者と開発者";
+
+"Select Folder" = "フォルダーを選択";
+
+"Invalid password. Password do not match" = "無効なパスワード。 パスワードが一致しません";
+
+"Check out" = "チェックアウト";
+
+"Website Support" = "ウェブサイトのサポート";
+
+"FAQ" = "よくある質問";
+
+"Sign In" = "サインイン";
+
+"Attachements" = "添付書類";
+
+"Content" = "コンテンツ";
+
+"Error in creating  note" = "メモ作成時のエラー";
+
+"Note created successfully" = "作成されたノート";
+
+"Note upload started in background" = "アップロードはバックグラウンドで開始されました";
+
+"Create Note" = "ノートを作成";
+
+"Enter note title" = "ノートのタイトルを入力";
+
+"Select Tag" = "タグを選択";
+
+"Add Folder Shortcut" = "フォルダのショートカットを追加";
+
+"Add Local Folder Shortcut" = "ローカルフォルダのショートカットを追加する";
+
+"Add Cloud Shortcut" = "クラウドショートカットを追加";
+
+"Select folder to add shortcut" = "ショートカットを追加するフォルダを選択";
+
+"Add to shortcut" = "ショートカットに追加";
+
+"Title" = "タイトル";
+
+"Compressed image used for fast process and reduce size without losing quality" = "高速処理に使用される圧縮画像であり、品質を損なうことなくサイズを縮小します。";
+
+"Authenticate and open File Manager." = "ファイルマネージャを認証して開きます。";
+
+"Authenticate and open Private Documents." = "プライベートドキュメントを認証して開きます。";
+
+"Private Docs" = "プライベートドキュメント";
+
+"Add to shortcuts" = "ショートカットに追加";
+
+"Pause" = "一時停止";
+
+"Select Notebook" = "ノートブックを選択";
+

@@ -1,0 +1,17 @@
+/* Localized versions of Info.plist keys */
+
+ADD_ITEM_SHORTCUT_TITLE1 = "스캐너";
+ADD_ITEM_SHORTCUT_TITLE2 = "노트";
+ADD_ITEM_SHORTCUT_TITLE3 = "녹음";
+
+NSLocationUsageDescription = "지도 및 Evernote의 사진 찍기 위치 액세스";
+
+NSLocationWhenInUseUsageDescription = "지도 및 Evernote의 사진 찍기 위치 액세스";
+
+NSPhotoLibraryUsageDescription = "사진에 액세스하여 PDF를 만들고 이미지 가져 오기";
+
+NSCameraUsageDescription = "카메라를 사용하여 PDF 및 이미지 가져 오기 만들기";
+
+NSAppleMusicUsageDescription = "음악 가져 오기를위한 미디어 라이브러리 액세스";
+
+NSMicrophoneUsageDescription = "오디오 레코딩 용 액세스 마이크";

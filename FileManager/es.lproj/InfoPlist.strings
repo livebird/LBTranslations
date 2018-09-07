@@ -1,0 +1,17 @@
+/* Localized versions of Info.plist keys */
+
+ADD_ITEM_SHORTCUT_TITLE1 = "Escáner";
+ADD_ITEM_SHORTCUT_TITLE2 = "Nota";
+ADD_ITEM_SHORTCUT_TITLE3 = "Grabación";
+
+NSLocationUsageDescription = "Ubicación de acceso para tomar instantáneas de Map y Evernote";
+
+NSLocationWhenInUseUsageDescription = "Ubicación de acceso para tomar instantáneas de Map y Evernote";
+
+NSPhotoLibraryUsageDescription = "Acceda a fotos para crear PDF e importar imágenes";
+
+NSCameraUsageDescription = "Acceda a la cámara para crear PDF e importar imágenes";
+
+NSAppleMusicUsageDescription = "Acceda a la biblioteca multimedia para importar música";
+
+NSMicrophoneUsageDescription = "Acceda al micrófono para recodificar audio";

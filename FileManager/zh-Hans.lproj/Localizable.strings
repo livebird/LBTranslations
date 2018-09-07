@@ -1,0 +1,890 @@
+/*
+ Localizable.strings
+ Recorder
+ 
+ Created by LiveBird on 17/10/13.
+ Copyright (c) 2013 LiveBird. All rights reserved.
+ */
+
+//FileList
+"Forgot Password" = "忘记密码";
+
+"Error in sending request" = "发送请求时出错";
+
+"File Manager Pro" = "文件管理器Pro";
+
+"Create PDF with unlimited pages" = "用无限的页面创建PDF";
+
+"Unlock Hand drawing" = "解锁手绘图";
+
+"Unlock Text File creator" = "解锁文本文件的创建者";
+
+"Unlock Audio Recording" = "解锁录音";
+
+"Unlock clouds" = "解锁云";
+
+"Remove ads" = "移除广告";
+
+"Upgrade" = "升级";
+
+"Restore Purchases" = "恢复购买";
+
+"Cancel" = "取消";
+
+"Crash Report" = "崩溃报告";
+
+"File Manager was closed abnormally. Do you want to send that crash report to us ? It will help us to improve File Manager app." = "文件管理器异常关闭。你想把这个崩溃报告发给我们吗？这将有助于我们改进文件管理器应用程序。";
+
+"Send" = "发送";
+
+"Always Send Automatically" = "始终自动发送";
+
+"Category" = "类别";
+
+"Documents" = "文件";
+
+"Import" = "进口";
+
+"File imported" = "文件导入";
+
+"Ok" = "好";
+
+"Open" = "打开";
+
+"Reveal" = "揭示";
+
+"Import File" = "导入文件";
+
+"Enter Passcode" = "输入密码";
+
+"Enter Password" = "输入密码";
+
+"You have entered an incorrect passcode too many times." = "您输入了错误的密码太多次了。";
+
+"Dropbox" = "Dropbox的";
+
+"OneDrive" = "一个驱动器";
+
+"SugarSync" = "SugarSync的";
+
+"Google Drive" = "Google云端硬盘";
+
+"Box.net" = "Box.net";
+
+"WebDAV Server" = "WebDAV服务器";
+
+"FTP Server" = "FTP服务器";
+
+"Recent File" = "最近的文件";
+
+"Protected PDF" = "受保护的PDF";
+
+"Enter PDF Password" = "输入PDF密码";
+
+"Open PDF" = "打开PDF";
+
+"Unable to open PDF" = "无法打开PDF";
+
+"Images" = "图片";
+
+"Video" = "视频";
+
+"Zips" = "拉链";
+
+"Audio" = "音频";
+
+"Wifi" = "无线上网";
+
+"iTunes Files" = "iTunes文件";
+
+"Trash" = "垃圾";
+
+"iCloud" = "iCloud的";
+
+"Unzip Archive" = "解压档案";
+
+"Do you want unzip file?" = "你想要解压缩文件吗？";
+
+"Unzip" = "拉开拉链";
+
+"Enter your email id" = "输入您的电子邮件ID";
+
+"Submit" = "提交";
+
+"Private" = "私人的";
+
+"You have not set password for your private documents yet.Do you want set it now?" = "你还没有为你的私人文件设置密码。你现在要设置吗？";
+
+"Set" = "组";
+
+"Later" = "后来";
+
+"Put Back" = "放回去";
+
+"Remove Shortcut" = "删除快捷方式";
+
+"Create Shortcut" = "创建快捷方式";
+
+"Make Zip" = "制作邮编";
+
+"Email" = "电子邮件";
+
+"Open In" = "打开";
+
+"Upload" = "上传";
+
+"Share" = "分享";
+
+"Delete" = "删除";
+
+"Rename" = "改名";
+
+"More Info" = "更多信息";
+
+"Microphone Access Denied" = "麦克风访问被拒绝";
+
+"This app requires access to your device's Microphone." = "这个应用程序需要访问您的设备的麦克风。";
+
+"Please enable Microphone access for File Manager in Settings / Privacy / Microphone" = "请在设置/隐私/麦克风中启用文件管理器的麦克风访问";
+
+"Dismiss" = "解雇";
+
+"Item moved to Document folder" = "项目移动到文档文件夹";
+
+"Copy" = "复制";
+
+"Move" = "移动";
+
+"Recover Recording" = "恢复录制";
+
+"Not save recording found. Do you want save it?" = "不保存记录找到。你想保存吗？";
+
+"Save" = "保存";
+
+"Recent" = "最近";
+
+"WiFi Share" = "WiFi共享";
+
+"WiFi Sharing is off. Do you want to enable it?" = "WiFi共享关闭。你想启用它吗？";
+
+"Enable" = "启用";
+
+"Advance File Manager" = "高级文件管理器";
+
+"Slide to show options." = "滑动以显示选项。";
+
+"delete, rename, mail, upload and more" = "删除，重命名，邮件，上传等等";
+
+"PDF Scanner & Audio Recording" = "PDF扫描仪和音频录制";
+
+"Scan more than 100 pages and convert to PDF & Quick Audio" = "扫描超过100页，并转换为PDF和快速音频";
+
+"Import anything you want" = "导入任何你想要的";
+
+"Import Photo, Video, Music." = "导入照片，视频，音乐。";
+
+"Import From Cloud & Drives." = "从云端和云端硬盘导入。";
+
+"Import From Clipboard." = "从剪贴板导入。";
+
+"Faster than ever" = "比以往更快";
+
+"Select multiple files to copy, move, email, upload etc." = "选择多个文件复制，移动，电子邮件，上传等";
+
+"File Sharing" = "文件共享";
+
+"Wifi secured file sharing." = "无线安全的文件共享。";
+
+"Cloud sharing" = "云共享";
+
+"Share files to cloud quickly." = "快速将文件共享到云端。";
+
+"More" = "更多";
+
+"File Manager" = "文件管理器";
+
+"Zip" = "压缩";
+
+"WiFi Share Off" = "WiFi分享";
+
+"Empty Trash" = "清空垃圾桶";
+
+"Empty" = "空";
+
+"Clear" = "明确";
+
+"Action" = "行动";
+
+"Waiting..." = "等候...";
+
+"Completed" = "已完成";
+
+"Cancelled" = "取消";
+
+"Done" = "完成";
+
+"Edit" = "编辑";
+
+"Create Folder" = "创建文件夹";
+
+"Folder created." = "文件夹已创建。";
+
+"Folder not create." = "文件夹不创建。";
+
+"Creating folder..." = "正在创建文件夹...";
+
+"Folder create failed." = "文件夹创建失败。";
+
+"Scanner" = "扫描器";
+
+"Note" = "注意";
+
+"Drawing" = "画画";
+
+"Recorder" = "录音机";
+
+"Photo Library" = "照片库";
+
+"Camera" = "相机";
+
+"Video Library" = "视频库";
+
+"Cloud & Drive" = "云和驱动器";
+
+"Music Library" = "曲库";
+
+"Imported Successfully!" = "导入成功！";
+
+"Some error in importing music." = "导入音乐时出错。";
+
+"Importing" = "输入";
+
+"File imported successfully!" = "文件导入成功！";
+
+"Error" = "错误";
+
+"File uploaded successfully!" = "文件上传成功！";
+
+"Clipboard" = "剪贴板";
+
+"Images imported" = "导入的图像";
+
+"Image imported" = "图像导入";
+
+"Clipboard is Empty" = "剪贴板是空的";
+
+"Import File(s)" = "导入文件";
+
+"Document Drives" = "文档驱动器";
+
+"Clouds" = "云";
+
+"Imported successfully!" = "导入成功！";
+
+"Import video successfully!" = "导入视频成功！";
+
+"Add Folder" = "新增文件夹";
+
+"New Folder With Selected Items" = "所选项目的新文件夹";
+
+"New Folder" = "新建文件夹";
+
+"Enter folder name" = "输入文件夹名称";
+
+"Create" = "创建";
+
+"Item with same name already exists" = "具有相同名称的项目已经存在";
+
+"Item with same name already exist at path" = "在路径中已经存在具有相同名称的项目";
+
+"Loading..." = "载入中...";
+
+"Total Item(s)" = "总项目";
+
+"Are you sure?" = "你确定？";
+
+"Create PDF" = "创建PDF";
+
+"File with same name already exist" = "同名的文件已经存在";
+
+"Overwrite" = "覆盖";
+
+"Keep both" = "保留两个";
+
+"Image to PDF" = "图像到PDF";
+
+"PDF Saved" = "PDF保存";
+
+"Your %@ doesn't seem to have any other Apps installed that can open this document." = "您的％@似乎没有安装任何可以打开此文档的其他应用程序。";
+
+"No suitable Apps installed" = "没有安装合适的应用";
+
+"Select destination folder to copy items" = "选择要复制项目的目标文件夹";
+
+"MOVE" = "移动";
+
+"CURRENT PLAYING AUDIO FILE CAN NOT MOVE." = "当前播放的音频文件无法移动。";
+
+"Can't move into same directory" = "不能移动到相同的目录";
+
+"Skip" = "跳跃";
+
+"Select destination folder to move items" = "选择移动项目的目标文件夹";
+
+"Delete File(s)" = "删除文件）";
+
+"CURRENT PLAYING AUDIO FILE CAN NOT DELETE." = "当前播放的音频文件不能删除。";
+
+"DELETE" = "删除";
+
+"Mail" = "邮件";
+
+"Can't send mail. Please Check your mail account setup" = "无法发送邮件。请检查您的邮件帐户设置";
+
+"Your attachment(s) size is large" = "你的附件大小很大";
+
+"This may create problem while sending mail" = "这可能会在发送邮件时造成问题";
+
+"Proceed any way" = "仍要继续";
+
+"Upload File(s)" = "上传文件）";
+
+"Enter name" = "输入名字";
+
+"Archive" = "档案";
+
+"Successfully zipped!" = "成功压缩！";
+
+"Please wait" = "请稍候";
+
+"Shortcut created" = "创建快捷方式";
+
+"Shortcut add to categories list successfully" = "快捷方式成功添加到类别列表";
+
+"Private Documents" = "私人文件";
+
+"Invalid Password" = "无效的密码";
+
+"Retry" = "重试";
+
+"Are you sure you want to logout?" = "你确定要注销吗？";
+
+"Logout" = "登出";
+
+"Help" = "帮帮我";
+
+"View Welcome tutorials" = "查看欢迎教程";
+
+"Settings" = "设置";
+
+"optional" = "可选的";
+
+"FTP Share" = "FTP共享";
+
+"Error in starting FTP Share. Check your WiFi Connection" = "启动FTP共享时出错。检查您的WiFi连接";
+
+"Error in starting WiFi Share. Check your WiFi Connection" = "启动WiFi共享错误。检查您的WiFi连接";
+
+"File Manager Settings" = "文件管理器设置";
+
+"Security Settings" = "安全设定";
+
+"Custom PDF Viewer" = "自定义PDF查看器";
+
+"Cloud Settings" = "云设置";
+
+"Username" = "用户名";
+
+"Password" = "密码";
+
+"Rate File Manager" = "费率文件管理器";
+
+"Send Feedback" = "发送反馈";
+
+"Tell a Friend" = "告诉一个朋友";
+
+"Report a bug" = "报告一个错误";
+
+"More Apps" = "更多应用程序";
+
+"Buy File Manager Pro" = "购买文件管理器临";
+
+"Scanner Settings" = "扫描仪设置";
+
+"Unlock Items" = "解锁项目";
+
+"Addons" = "插件";
+
+"Feedback and Share" = "反馈和共享";
+
+"Use Custom PDF Viewer" = "使用自定义PDF查看器";
+
+"Enable file sharing over WiFi" = "通过WiFi启用文件共享";
+
+"in your computer browser to manage files shared with WiFi" = "在您的电脑浏览器中管理与WiFi共享的文件";
+
+"Enable file sharing over FTP" = "通过FTP启用文件共享";
+
+"Enable to use Custom PDF Viewer instead of using the built in PDF viewer." = "启用使用自定义PDF查看器，而不是使用内置的PDF查看器。";
+
+"Custom PDF Viewer will not be able to open large PDF files" = "自定义PDF查看器将无法打开大型PDF文件";
+
+"Send Mail" = "发送邮件";
+
+"Use Image Editor" = "使用图像编辑器";
+
+"Original" = "原版的";
+
+"Compressed" = "压缩";
+
+"Image Editor" = "图像编辑器";
+
+"Image Scan Quality" = "图像扫描质量";
+
+"Use image editor while adding image to PDF scanner" = "在将图像添加到PDF扫描仪时使用图像编辑器";
+
+"Compressed image used for fast process of scan PDF and reduce size" = "压缩图像用于扫描PDF的快速过程并缩小尺寸";
+
+"Player Settings" = "播放器设置";
+
+"Passcode Lock" = "密码锁";
+
+"On" = "上";
+
+"Off" = "离";
+
+"Change Password" = "更改密码";
+
+"Touch Id Lock" = "触摸标识锁定";
+
+"App Password Lock" = "应用密码锁定";
+
+"Private Files" = "私人文件";
+
+"Export" = "出口";
+
+"Touch Id" = "触摸ID";
+
+"On app launch or resume it will prompt for entering password" = "在应用程序启动或恢复时，它会提示输入密码";
+
+"Change password of your private files" = "更改您的私人文件的密码";
+
+"Change Passcode" = "更改密码";
+
+"Turn Off" = "关掉";
+
+"Old Password" = "旧密码";
+
+"Show Thumbnail" = "显示缩略图";
+
+"Recent Items" = "最近的项目";
+
+"Private Items" = "私人物品";
+
+"Utility Folder Hide/Show" = "公用文件夹隐藏/显示";
+
+"Thumbnails are not generated for file size larger than 5MB." = "缩略图不会生成大于5MB的文件。";
+
+"Memory Capacity of" = "内存容量";
+
+"with" = "同";
+
+"Free memory available." = "可用内存。";
+
+"Hide/Show Cloud" = "隐藏/显示云";
+
+"Turn off the cloud it will hide from the list" = "关掉将从列表中隐藏的云";
+
+"Select Prefix Label" = "选择前缀标签";
+
+"Add Label" = "添加标签";
+
+"Enter Label name" = "输入标签名称";
+
+"Uploading" = "上传";
+
+"Item(s)" = "项目（S）";
+
+"Open Uploads" = "打开上传";
+
+"Shortcut" = "捷径";
+
+"Cloud List" = "云列表";
+
+"Navigate to sub folders and create shortcuts" = "导航到子文件夹并创建快捷方式";
+
+"No cloud shortcut found" = "找不到云端快捷方式";
+
+"Are you sure to logout?" = "你确定要注销吗？";
+
+"Shortcut add to cloud list successfully" = "快捷方式成功添加到云列表";
+
+"New File" = "新文件";
+
+"Drawing Settings" = "绘图设置";
+
+"Stroke Color" = "描边颜色";
+
+"Eraser" = "橡皮";
+
+"Background Color" = "背景颜色";
+
+"New Drawing" = "新绘图";
+
+"Do you want to save document?" = "你想保存文件吗？";
+
+"want to add this?" = "想添加这个？";
+
+"Save File" = "保存存档";
+
+"New Text File" = "新的文本文件";
+
+"want to save document?" = "想保存文件？";
+
+"Text File Saved" = "文本文件保存";
+
+"Text to PDF" = "文本到PDF";
+
+"File with same name exist" = "存在具有相同名称的文件";
+
+"Send by E-mail" = "通过电子邮件发送";
+
+"Add Bookmark" = "添加书签";
+
+"Bookmarks" = "书签";
+
+"Add Page" = "添加页面";
+
+"Select File" = "选择文件";
+
+"Hand Drawing" = "手绘图";
+
+"Map Snap" = "地图捕捉";
+
+"Rich Text" = "富文本";
+
+"Select files to add" = "选择要添加的文件";
+
+"Edit Images?" = "编辑图像？";
+
+"Save PDF" = "保存PDF";
+
+"Do you want to save PDF?" = "你想保存PDF吗？";
+
+"Creating PDF" = "创建PDF";
+
+"Clear Pages" = "清除页面";
+
+"Are you sure to clear list of created pages?" = "你确定要清除已创建页面的列表吗？";
+
+"This Image" = "这个图片";
+
+"All Remaining Images" = "所有剩余的图像";
+
+"Rich text page" = "富文本页面";
+
+"Allow Printing Content" = "允许打印内容";
+
+"Allow Copying Content" = "允许复制内容";
+
+"Orientation" = "方向";
+
+"Encrypt PDF" = "加密PDF";
+
+"File Details" = "文件细节";
+
+"Name" = "名称";
+
+"Date Created" = "创建日期";
+
+"Date Modified" = "修改日期";
+
+"Size" = "尺寸";
+
+"Format" = "格式";
+
+"Move to trash" = "移到废纸篓";
+
+"CURRENT PLAYING AUDIO FILE CAN NOT DELETE" = "当前播放的音频文件不能删除";
+
+"Warning" = "警告";
+
+"Audio input hardware not available" = "音频输入硬件不可用";
+
+"Save Recording" = "保存记录";
+
+"Enter file name" = "输入文件名称";
+
+"Error in saving recording" = "保存记录时出错";
+
+"Saved Successfully" = "保存成功";
+
+"Recording Deleted" = "录制已删除";
+
+"Recording" = "记录";
+
+"Select Option" = "选择选项";
+
+"Music Player" = "音乐播放器";
+
+"List" = "名单";
+
+"Current Folder" = "当前文件夹";
+
+"All Folder" = "所有文件夹";
+
+"Protected files cannot be imported." = "无法导入受保护的文件。";
+
+"Import Failed" = "导入失败";
+
+"Improt successfully!" = "Improt成功！";
+
+"items" = "项目";
+
+"Stroke Width" = "笔画宽度";
+
+"Pick Color" = "挑选颜色";
+
+"Drawing Saved - " = "绘图保存 - ";
+
+"Low" = "低";
+
+"Good" = "好";
+
+"Best" = "最好";
+
+"Resume" = "恢复";
+
+"Stop" = "停止";
+
+"selected" = "选";
+
+"Current Folder" = "当前文件夹";
+
+"All Folder" = "所有文件夹";
+
+"Add" = "加";
+
+"Imported Files" = "导入的文件";
+
+"Add New Label" = "添加新标签";
+
+"Date" = "日期";
+
+"Music" = "音乐";
+
+"Spotlight Search" = "热点搜索";
+
+"Designed and Developed By" = "设计和开发的";
+
+"Photos" = "相片";
+
+"Photo Selected" = "照片选择";
+
+"Yes" = "是";
+
+"No" = "没有";
+
+"Landscape" = "景观";
+
+"Portrait" = "肖像";
+
+"Owner Password" = "所有者密码";
+
+"User Password" = "用户密码";
+
+"File Name*" = "文件名*";
+
+"Author Name" = "作者姓名";
+
+"Creator Name" = "创建者名称";
+
+"Title" = "标题";
+
+"Subject" = "学科";
+
+"Keywords" = "关键词";
+
+"PDF Details" = "PDF细节";
+
+"Enter search text here" = "在这里输入搜索文字";
+
+"Standrad" = "标准";
+
+"Sattelite" = "卫星";
+
+"Hybrid" = "混合动力";
+
+"BG Color" = "BG颜色";
+
+"Text Color" = "文本颜色";
+
+"RichText Editor" = "RichText编辑器";
+
+"Record" = "记录";
+
+"Try again once you have an internet connection." = "一旦你有互联网连接，请再试一次。";
+
+"No internet connection" = "没有网络连接";
+
+"Completed of" = "完成了";
+
+"failed to upload" = "未能上传";
+
+"Login Failure" = "登录失败";
+
+"Office WebDav Server" = "办公室 WebDav服务器";
+
+"Enter WebDav URL" = "输入WebDav 网址";
+
+"Required" = "需要";
+
+"Optional" = "可选的";
+
+"Uploading..." = "上传中...";
+
+"Importing..." = "输入...";
+
+"upload(s) started in background" = "上传（S）在后台开始";
+
+"Office FTP Server" = "办公室FTP服务器";
+
+"Enter Name" = "输入名字";
+
+"Enter Host" = "输入主机";
+
+"Cloud Upload" = "云上传";
+
+"Failed" = "失败";
+
+"Dimensions" = "外形尺寸";
+
+"Color Model" = "颜色模型";
+
+"File Info" = "文件信息";
+
+"FILE INFO" = "文件信息";
+
+"Share & Action" = "分享和行动";
+
+"SHARE & ACTION" = "分享和行动";
+
+"Version" = "版";
+
+"Pages" = "网页";
+
+"Security" = "安全";
+
+"Allow Printing" = "允许打印";
+
+"Allow Copying" = "允许复制";
+
+"Password Encrypted" = "密码已加密";
+
+"Duration" = "持续时间";
+
+"Codecs" = "编解码器";
+
+"Sample rate" = "采样率";
+
+"Bit per sample" = "每个样本的位数";
+
+"Audio channels" = "音频频道";
+
+"Creator" = "创造者";
+
+"Producer" = "制片人";
+
+"None" = "没有";
+
+"Drives" = "驱动器";
+
+"Author" = "作者";
+
+"Description" = "描述";
+
+"Copyrights" = "版权";
+
+"Contributor" = "贡献者";
+
+"Albumname" = "相册名称";
+
+"Artist" = "艺术家";
+
+"Image compression" = "图像压缩";
+
+"Confirm password" = "确认密码";
+
+"New Password" = "新密码";
+
+"Password do not match" = "密码不匹配";
+
+"Enter old password" = "输入旧密码";
+
+"Enter new password" = "输入新密码";
+
+"Enter confirm password" = "输入确认密码";
+
+"Invalid old password" = "旧密码无效";
+
+"Connect to" = "连接到";
+
+"Check out this application on the App Store" = "在应用商店中查看此应用程序";
+
+"Designed and Devloped By" = "设计和开发的";
+
+"Select Folder" = "选择文件夹";
+
+"Invalid password. Password do not match" = "无效的密码。 密码不匹配";
+
+"Check out" = "查看";
+
+"Website Support" = "网站支持";
+
+"FAQ" = "常问问题";
+
+"Sign In" = "签到";
+
+"Attachements" = "附着物";
+
+"Content" = "内容";
+
+"Error in creating  note" = "创建注释时出错";
+
+"Note created successfully" = "注意已成功创建";
+
+"Note upload started in background" = "注意上传在后台开始";
+
+"Create Note" = "创建注释";
+
+"Enter note title" = "输入笔记标题";
+
+"Select Tag" = "选择标签";
+
+"Add Folder Shortcut" = "添加文件夹快捷方式";
+
+"Add Local Folder Shortcut" = "添加本地文件夹快捷方式";
+
+"Add Cloud Shortcut" = "添加云端快捷方式";
+
+"Select folder to add shortcut" = "选择要添加快捷方式的文件夹";
+
+"Add to shortcut" = "添加到快捷方式";
+
+"Title" = "标题";
+
+"Compressed image used for fast process and reduce size without losing quality" = "压缩图像用于快速处理，减小尺寸而不会丢失质量";
+
+"Authenticate and open File Manager." = "验证并打开文件管理器。";
+
+"Authenticate and open Private Documents." = "验证并打开私人文件。";
+
+"Private Docs" = "私人文件";
+
+"Add to shortcuts" = "添加到快捷方式";
+
+"Pause" = "暂停";
+
+"Select Notebook" = "选择笔记本";
+
+

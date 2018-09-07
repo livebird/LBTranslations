@@ -1,0 +1,889 @@
+/*
+ Localizable.strings
+ Recorder
+ 
+ Created by LiveBird on 17/10/13.
+ Copyright (c) 2013 LiveBird. All rights reserved.
+ */
+
+"Forgot Password" = "비밀번호를 잊으 셨나요";
+
+"Error in sending request" = "요청을 보내는 중 오류가 발생했습니다.";
+
+"File Manager Pro" = "파일 관리자 프로";
+
+"Create PDF with unlimited pages" = "무제한 페이지로 PDF 작성";
+
+"Unlock Hand drawing" = "핸드 드로잉 잠금 해제";
+
+"Unlock Text File creator" = "텍스트 파일 작성자 잠금 해제";
+
+"Unlock Audio Recording" = "오디오 녹음 잠금 해제";
+
+"Unlock clouds" = "구름을 풀다";
+
+"Remove ads" = "광고를 제거하다";
+
+"Upgrade" = "업그레이드";
+
+"Restore Purchases" = "구매를 복원";
+
+"Cancel" = "취소";
+
+"Crash Report" = "오류 보고서";
+
+"File Manager was closed abnormally. Do you want to send that crash report to us ? It will help us to improve File Manager app." = "파일 관리자가 비정상적으로 닫혔습니다. 그 충돌 보고서를 우리에게 보내시겠습니까? 파일 관리자 앱을 개선하는 데 도움이됩니다.";
+
+"Send" = "보내다";
+
+"Always Send Automatically" = "자동으로 항상 보내기";
+
+"Category" = "범주";
+
+"Documents" = "서류";
+
+"Import" = "수입";
+
+"File imported" = "가져온 파일";
+
+"Ok" = "승인";
+
+"Open" = "열다";
+
+"Reveal" = "창틀";
+
+"Import File" = "파일 가져 오기";
+
+"Enter Passcode" = "암호 입력";
+
+"Enter Password" = "암호를 입력";
+
+"You have entered an incorrect passcode too many times." = "잘못된 암호를 너무 많이 입력했습니다.";
+
+"Dropbox" = "드롭 박스";
+
+"OneDrive" = "OneDrive";
+
+"SugarSync" = "SugarSync";
+
+"Google Drive" = "구글 드라이브";
+
+"Box.net" = "Box.net";
+
+"WebDAV Server" = "WebDAV 서버";
+
+"FTP Server" = "FTP 서버";
+
+"Recent File" = "최근 파일";
+
+"Protected PDF" = "보호 된 PDF";
+
+"Enter PDF Password" = "PDF 암호 입력";
+
+"Open PDF" = "PDF 열기";
+
+"Unable to open PDF" = "PDF를 열 수 없습니다.";
+
+"Images" = "이미지";
+
+"Video" = "비디오";
+
+"Zips" = "우편 번호";
+
+"Audio" = "오디오";
+
+"Wifi" = "와이파이";
+
+"iTunes Files" = "iTunes 파일";
+
+"Trash" = "폐물";
+
+"iCloud" = "iCloud";
+
+"Unzip Archive" = "아카이브 압축 해제";
+
+"Do you want unzip file?" = "파일을 압축 해제 하시겠습니까?";
+
+"Unzip" = "압축을 풀다";
+
+"Enter your email id" = "이메일 ID 입력";
+
+"Submit" = "제출";
+
+"Private" = "은밀한";
+
+"You have not set password for your private documents yet.Do you want set it now?" = "아직 비밀 문서에 대한 비밀번호를 설정하지 않았습니다. 지금 설정 하시겠습니까?";
+
+"Set" = "세트";
+
+"Later" = "후에";
+
+"Put Back" = "다시 집어 넣어";
+
+"Remove Shortcut" = "바로 가기 제거";
+
+"Create Shortcut" = "바로 가기 만들기";
+
+"Make Zip" = "우편 번호 만들기";
+
+"Email" = "이메일";
+
+"Open In" = "공개";
+
+"Upload" = "업로드";
+
+"Share" = "몫";
+
+"Delete" = "지우다";
+
+"Rename" = "이름 바꾸기";
+
+"More Info" = "더 많은 정보";
+
+"Microphone Access Denied" = "마이크 액세스가 거부되었습니다.";
+
+"This app requires access to your device's Microphone." = "이 앱은 기기의 마이크에 액세스해야합니다.";
+
+"Please enable Microphone access for File Manager in Settings / Privacy / Microphone" = "설정 / 개인 정보 / 마이크에서 파일 관리자에 마이크 액세스를 사용하도록 설정하십시오.";
+
+"Dismiss" = "버리다";
+
+"Item moved to Document folder" = "항목이 문서 폴더로 이동되었습니다.";
+
+"Copy" = "부";
+
+"Move" = "움직임";
+
+"Recover Recording" = "기록 복구";
+
+"Not save recording found. Do you want save it?" = "저장 내용을 찾지 못했습니다. 저장 하시겠습니까?";
+
+"Save" = "구하다";
+
+"Recent" = "충적세";
+
+"WiFi Share" = "WiFi 공유";
+
+"WiFi Sharing is off. Do you want to enable it?" = "WiFi 공유가 꺼져 있습니다. 활성화 하시겠습니까?";
+
+"Enable" = "사용";
+
+"Advance File Manager" = "고급 파일 관리자";
+
+"Slide to show options." = "슬라이드 옵션을 표시합니다.";
+
+"delete, rename, mail, upload and more" = "삭제, 이름 변경, 메일, 업로드 등";
+
+"PDF Scanner & Audio Recording" = "PDF 스캐너 및 오디오 녹음";
+
+"Scan more than 100 pages and convert to PDF & Quick Audio" = "100 페이지 이상의 스캔 및 PDF 및 빠른 오디오로 변환";
+
+"Import anything you want" = "원하는 것을 가져 오기";
+
+"Import Photo, Video, Music." = "사진, 비디오, 음악 가져 오기.";
+
+"Import From Cloud & Drives." = "클라우드 및 드라이브에서 가져 오기.";
+
+"Import From Clipboard." = "클립 보드에서 가져 오기.";
+
+"Faster than ever" = "그 어느 때보다도 빠른";
+
+"Select multiple files to copy, move, email, upload etc." = "복사, 이동, 이메일, 업로드 등 여러 파일 선택";
+
+"File Sharing" = "파일 공유";
+
+"Wifi secured file sharing." = "와이파이 보안 파일 공유.";
+
+"Cloud sharing" = "클라우드 공유";
+
+"Share files to cloud quickly." = "파일을 빠르게 클라우드로 공유하십시오.";
+
+"More" = "더";
+
+"File Manager" = "파일 관리자";
+
+"Zip" = "지퍼";
+
+"WiFi Share Off" = "WiFi 공유 해제";
+
+"Empty Trash" = "텅 빈 쓰레기통";
+
+"Empty" = "빈";
+
+"Clear" = "명확한";
+
+"Action" = "동작";
+
+"Waiting..." = "기다리는...";
+
+"Completed" = "완료";
+
+"Cancelled" = "취소 된";
+
+"Done" = "끝난";
+
+"Edit" = "편집하다";
+
+"Create Folder" = "폴더 만들기";
+
+"Folder created." = "폴더 생성.";
+
+"Folder not create." = "폴더를 만들 수 없습니다.";
+
+"Creating folder..." = "폴더를 만드는 중 ...";
+
+"Folder create failed." = "폴더에 실패 만듭니다.";
+
+"Scanner" = "스캐너";
+
+"Note" = "노트";
+
+"Drawing" = "그림";
+
+"Recorder" = "기록계";
+
+"Photo Library" = "사진 라이브러리";
+
+"Camera" = "카메라";
+
+"Video Library" = "비디오 라이브러리";
+
+"Cloud & Drive" = "클라우드 드라이브";
+
+"Music Library" = "음악 라이브러리";
+
+"Imported Successfully!" = "성공적으로 가져 왔습니다!";
+
+"Some error in importing music." = "음악 가져 오기 중 일부 오류가 발생했습니다.";
+
+"Importing" = "가져 오는 중";
+
+"File imported successfully!" = "파일을 성공적으로 가져 왔습니다!";
+
+"Error" = "오류";
+
+"File uploaded successfully!" = "파일이 성공적으로 업로드되었습니다!";
+
+"Clipboard" = "클립 보드";
+
+"Images imported" = "가져온 이미지";
+
+"Image imported" = "가져온 이미지";
+
+"Clipboard is Empty" = "클립 보드가 비어 있습니다.";
+
+"Import File(s)" = "파일 가져 오기";
+
+"Document Drives" = "문서 드라이브";
+
+"Clouds" = "구름";
+
+"Imported successfully!" = "성공적으로 가져 왔습니다!";
+
+"Import video successfully!" = "비디오 성공적으로 가져 오기!";
+
+"Add Folder" = "폴더 추가";
+
+"New Folder With Selected Items" = "선택한 항목이있는 새 폴더";
+
+"New Folder" = "새 폴더";
+
+"Enter folder name" = "폴더 이름 입력";
+
+"Create" = "몹시 떠들어 대다";
+
+"Item with same name already exists" = "같은 이름의 항목이 이미 있습니다.";
+
+"Item with same name already exist at path" = "이름이 같은 항목이 이미 경로에 있습니다.";
+
+"Loading..." = "로드 중 ...";
+
+"Total Item(s)" = "총 항목";
+
+"Are you sure?" = "확실합니까?";
+
+"Create PDF" = "PDF 작성";
+
+"File with same name already exist" = "같은 이름의 파일이 이미 있습니다.";
+
+"Overwrite" = "덮어 쓰기";
+
+"Keep both" = "둘 다 유지";
+
+"Image to PDF" = "이미지를 PDF로";
+
+"PDF Saved" = "저장된 PDF";
+
+"Your %@ doesn't seem to have any other Apps installed that can open this document." = "귀하의 % @에는이 문서를 열 수있는 다른 Apps가 설치되어 있지 않습니다.";
+
+"No suitable Apps installed" = "적합한 Apps가 설치되지 않았습니다.";
+
+"Select destination folder to copy items" = "항목을 복사 할 대상 폴더 선택";
+
+"MOVE" = "움직임";
+
+"CURRENT PLAYING AUDIO FILE CAN NOT MOVE." = "현재 재생중인 오디오 파일을 이동할 수 없습니다.";
+
+"Can't move into same directory" = "동일한 디렉토리로 이동할 수 없습니다.";
+
+"Skip" = "버킷";
+
+"Select destination folder to move items" = "항목을 이동할 대상 폴더를 선택하십시오.";
+
+"Delete File(s)" = "파일 삭제)";
+
+"CURRENT PLAYING AUDIO FILE CAN NOT DELETE." = "현재 재생중인 오디오 파일을 삭제할 수 없습니다.";
+
+"DELETE" = "지우다";
+
+"Mail" = "우편";
+
+"Can't send mail. Please Check your mail account setup" = "메일을 보낼 수 없습니다. 메일 계정 설정을 확인하십시오.";
+
+"Your attachment(s) size is large" = "첨부 파일 크기가 큽니다.";
+
+"This may create problem while sending mail" = "메일을 보내는 동안 문제가 발생할 수 있습니다.";
+
+"Proceed any way" = "어쨌거나 진행";
+
+"Upload File(s)" = "파일 업로드하다)";
+
+"Enter name" = "이름을 입력하시오";
+
+"Archive" = "아카이브";
+
+"Successfully zipped!" = "성공적으로 압축!";
+
+"Please wait" = "기다려주십시오.";
+
+"Shortcut created" = "바로 가기 생성됨";
+
+"Shortcut add to categories list successfully" = "바로 가기가 카테고리 목록에 성공적으로 추가되었습니다.";
+
+"Private Documents" = "개인 문서";
+
+"Invalid Password" = "유효하지 않은 비밀번호";
+
+"Retry" = "다시 해 보다";
+
+"Are you sure you want to logout?" = "로그 아웃 하시겠습니까?";
+
+"Logout" = "로그 아웃";
+
+"Help" = "도움";
+
+"View Welcome tutorials" = "환영 자습서보기";
+
+"Settings" = "설정";
+
+"optional" = "선택 과목";
+
+"FTP Share" = "FTP 공유";
+
+"Error in starting FTP Share. Check your WiFi Connection" = "FTP 공유를 시작하는 중 오류가 발생했습니다. WiFi 연결 확인";
+
+"Error in starting WiFi Share. Check your WiFi Connection" = "WiFi 공유를 시작하는 중 오류가 발생했습니다. WiFi 연결 확인";
+
+"File Manager Settings" = "파일 관리자 설정";
+
+"Security Settings" = "보안 설정";
+
+"Custom PDF Viewer" = "사용자 정의 PDF 뷰어";
+
+"Cloud Settings" = "클라우드 설정";
+
+"Username" = "사용자 이름";
+
+"Password" = "암호";
+
+"Rate File Manager" = "파일 관리자 속도";
+
+"Send Feedback" = "의견 보내기";
+
+"Tell a Friend" = "친구에게 알리기";
+
+"Report a bug" = "버그보고";
+
+"More Apps" = "더 많은 애플 리케이션";
+
+"Buy File Manager Pro" = "File Manager Pro 구입하기";
+
+"Scanner Settings" = "스캐너 설정";
+
+"Unlock Items" = "항목 잠금 해제";
+
+"Addons" = "애드온";
+
+"Feedback and Share" = "의견 및 공유";
+
+"Use Custom PDF Viewer" = "사용자 정의 PDF 뷰어 사용";
+
+"Enable file sharing over WiFi" = "WiFi를 통한 파일 공유 사용";
+
+"in your computer browser to manage files shared with WiFi" = "컴퓨터 브라우저에서 WiFi와 공유 된 파일을 관리합니다.";
+
+"Enable file sharing over FTP" = "FTP를 통한 파일 공유 사용";
+
+"Enable to use Custom PDF Viewer instead of using the built in PDF viewer." = "내장 PDF 뷰어 대신 사용자 정의 PDF 뷰어를 사용할 수 있습니다.";
+
+"Custom PDF Viewer will not be able to open large PDF files" = "사용자 지정 PDF 뷰어에서 큰 PDF 파일을 열 수 없음";
+
+"Send Mail" = "메일을 보내다";
+
+"Use Image Editor" = "이미지 편집기 사용";
+
+"Original" = "실물";
+
+"Compressed" = "압축";
+
+"Image Editor" = "이미지 편집기";
+
+"Image Scan Quality" = "이미지 스캔 품질";
+
+"Use image editor while adding image to PDF scanner" = "PDF 스캐너에 이미지를 추가하는 동안 이미지 편집기 사용";
+
+"Compressed image used for fast process of scan PDF and reduce size" = "스캔 PDF의 빠른 프로세스에 사용되는 압축 이미지 및 크기 감소";
+
+"Player Settings" = "플레이어 설정";
+
+"Passcode Lock" = "비밀번호 잠금";
+
+"On" = "에";
+
+"Off" = "떨어져서";
+
+"Change Password" = "비밀번호 변경";
+
+"Touch Id Lock" = "터치 ID 잠금";
+
+"Export" = "수출";
+
+"App Password Lock" = "앱 비밀번호 잠금";
+
+"Private Files" = "개인 파일";
+
+"Touch Id" = "터치 ID";
+
+"On app launch or resume it will prompt for entering password" = "앱이 실행되거나 다시 시작되면 비밀번호를 입력하라는 메시지가 표시됩니다.";
+
+"Change password of your private files" = "개인 파일의 비밀번호 변경";
+
+"Change Passcode" = "암호 변경";
+
+"Turn Off" = "끄다";
+
+"Old Password" = "기존 비밀번호";
+
+"Show Thumbnail" = "미리보기 이미지 표시";
+
+"Recent Items" = "최근 항목";
+
+"Private Items" = "비공개 항목";
+
+"Utility Folder Hide/Show" = "유틸리티 폴더 숨기기 / 표시";
+
+"Thumbnails are not generated for file size larger than 5MB." = "5MB를 초과하는 파일 크기에 대해서는 썸네일이 생성되지 않습니다.";
+
+"Memory Capacity of" = "메모리 용량";
+
+"with" = "와";
+
+"Free memory available." = "사용 가능한 메모리가 없습니다.";
+
+"Hide/Show Cloud" = "클라우드 숨기기 / 표시";
+
+"Turn off the cloud it will hide from the list" = "목록에서 숨길 구름 끄기";
+
+"Select Prefix Label" = "접두어 레이블 선택";
+
+"Add Label" = "라벨 추가";
+
+"Enter Label name" = "라벨 이름 입력";
+
+"Uploading" = "업로드 중";
+
+"Item(s)" = "품목";
+
+"Open Uploads" = "열린 업로드";
+
+"Shortcut" = "지름길";
+
+"Cloud List" = "클라우드 목록";
+
+"Navigate to sub folders and create shortcuts" = "하위 폴더로 이동하여 바로 가기 만들기";
+
+"No cloud shortcut found" = "클라우드 바로 가기를 찾을 수 없음";
+
+"Are you sure to logout?" = "로그 아웃 하시겠습니까?";
+
+"Shortcut add to cloud list successfully" = "바로 가기가 클라우드 목록에 추가되었습니다.";
+
+"New File" = "새로운 파일";
+
+"Drawing Settings" = "도면 설정";
+
+"Stroke Color" = "획 색상";
+
+"Eraser" = "지우개";
+
+"Background Color" = "배경색";
+
+"New Drawing" = "새로운 그림";
+
+"Do you want to save document?" = "문서를 저장 하시겠습니까?";
+
+"want to add this?" = "이것을 추가하고 싶습니까?";
+
+"Save File" = "파일을 저장";
+
+"New Text File" = "새 텍스트 파일";
+
+"want to save document?" = "문서를 저장하고 싶습니까?";
+
+"Text File Saved" = "저장된 텍스트 파일";
+
+"Text to PDF" = "텍스트를 PDF로";
+
+"File with same name exist" = "같은 이름의 파일이 있습니다.";
+
+"Send by E-mail" = "이메일로 보내기";
+
+"Add Bookmark" = "북마크에 추가하다";
+
+"Bookmarks" = "북마크";
+
+"Add Page" = "페이지 추가";
+
+"Select File" = "파일 선택";
+
+"Hand Drawing" = "핸드 드로잉";
+
+"Map Snap" = "지도 스냅";
+
+"Rich Text" = "서식있는 텍스트";
+
+"Select files to add" = "추가 할 파일 선택";
+
+"Edit Images?" = "이미지 수정?";
+
+"Save PDF" = "PDF 저장";
+
+"Do you want to save PDF?" = "PDF를 저장 하시겠습니까?";
+
+"Creating PDF" = "PDF 작성";
+
+"Clear Pages" = "페이지 지우기";
+
+"Are you sure to clear list of created pages?" = "생성 된 페이지의 목록을 삭제 하시겠습니까?";
+
+"This Image" = "이 사진";
+
+"All Remaining Images" = "모든 남은 이미지";
+
+"Rich text page" = "서식있는 텍스트 페이지";
+
+"Allow Printing Content" = "인쇄 내용 허용";
+
+"Allow Copying Content" = "콘텐츠 복사 허용";
+
+"Orientation" = "정위";
+
+"Encrypt PDF" = "PDF 암호화";
+
+"File Details" = "파일 세부 정보";
+
+"Name" = "이름";
+
+"Date Created" = "생성 일자";
+
+"Date Modified" = "수정 된 날짜";
+
+"Size" = "크기";
+
+"Format" = "체재";
+
+"Move to trash" = "휴지통으로 이동";
+
+"CURRENT PLAYING AUDIO FILE CAN NOT DELETE" = "현재 재생중인 오디오 파일을 삭제할 수 없습니다.";
+
+"Warning" = "경고";
+
+"Audio input hardware not available" = "오디오 입력 하드웨어를 사용할 수 없음";
+
+"Save Recording" = "녹음 저장";
+
+"Enter file name" = "파일 이름 입력";
+
+"Error in saving recording" = "녹음 저장 오류";
+
+"Saved Successfully" = "성공적으로 저장되었다";
+
+"Recording Deleted" = "녹화가 삭제되었습니다.";
+
+"Recording" = "녹음";
+
+"Select Option" = "선택 옵션";
+
+"Music Player" = "음악 플레이어";
+
+"List" = "명부";
+
+"Current Folder" = "현재 폴더";
+
+"All Folder" = "모든 폴더";
+
+"Protected files cannot be imported." = "보호 된 파일은 가져올 수 없습니다.";
+
+"Import Failed" = "가져 오기 실패";
+
+"Improt successfully!" = "Improt successfully!";
+
+"items" = "항목";
+
+"Stroke Width" = "스트로크 폭";
+
+"Pick Color" = "색상 선택";
+
+"Drawing Saved - " = "저장된 도면 -";
+
+"Low" = "낮은";
+
+"Good" = "좋은";
+
+"Best" = "베스트";
+
+"Resume" = "재개";
+
+"Stop" = "중지";
+
+"selected" = "선택된";
+
+"Current Folder" = "현재 폴더";
+
+"All Folder" = "모든 폴더";
+
+"Add" = "더하다";
+
+"Imported Files" = "가져온 파일";
+
+"Add New Label" = "새 레이블 추가";
+
+"Date" = "날짜";
+
+"Music" = "음악";
+
+"Spotlight Search" = "스포트라이트 검색";
+
+"Designed and Developed By" = "설계자 및 개발자";
+
+"Photos" = "사진들";
+
+"Photo Selected" = "선택한 사진";
+
+"Yes" = "예";
+
+"No" = "아니";
+
+"Landscape" = "경치";
+
+"Portrait" = "초상화";
+
+"Owner Password" = "소유자 암호";
+
+"User Password" = "사용자 암호";
+
+"File Name*" = "파일 이름*";
+
+"Author Name" = "작성자 이름";
+
+"Creator Name" = "제작자 이름";
+
+"Title" = "표제";
+
+"Subject" = "제목";
+
+"Keywords" = "키워드";
+
+"PDF Details" = "PDF 세부 정보";
+
+"Enter search text here" = "여기에 검색 텍스트를 입력하십시오.";
+
+"Standrad" = "Standrad";
+
+"Sattelite" = "위성";
+
+"Hybrid" = "잡종";
+
+"BG Color" = "BG 색상";
+
+"Text Color" = "텍스트 색상";
+
+"RichText Editor" = "서식있는 텍스트 편집기";
+
+"Record" = "기록";
+
+"Try again once you have an internet connection." = "인터넷에 연결되면 다시 시도하십시오.";
+
+"No internet connection" = "인터넷에 연결되지 않음";
+
+"Completed of" = "완료 됨";
+
+"failed to upload" = "업로드하지 못했습니다.";
+
+"Login Failure" = "로그인 실패";
+
+"Office WebDav Server" = "Office WebDav 서버";
+
+"Enter WebDav URL" = "WebDav URL 입력";
+
+"Required" = "필수";
+
+"Optional" = "선택 과목";
+
+"Uploading..." = "업로드 중 ...";
+
+"Importing..." = "가져 오는 중 ...";
+
+"upload(s) started in background" = "백그라운드에서 업로드가 시작되었습니다.";
+
+"Office FTP Server" = "Office FTP 서버";
+
+"Enter Name" = "이름을 입력하시오";
+
+"Enter Host" = "호스트 입력";
+
+"Cloud Upload" = "클라우드 업로드";
+
+"Failed" = "실패한";
+
+"Dimensions" = "치수";
+
+"Color Model" = "컬러 모델";
+
+"File Info" = "파일 정보";
+
+"FILE INFO" = "파일 정보";
+
+"Share & Action" = "공유 및 작업";
+
+"SHARE & ACTION" = "쉐어 및 행동";
+
+"Version" = "번역";
+
+"Pages" = "페이지";
+
+"Security" = "보안";
+
+"Allow Printing" = "인쇄 허용";
+
+"Allow Copying" = "복사 허용";
+
+"Password Encrypted" = "암호로 고쳐 쓴 암호";
+
+"Duration" = "지속";
+
+"Codecs" = "코덱";
+
+"Sample rate" = "샘플 속도";
+
+"Bit per sample" = "샘플 당 비트";
+
+"Audio channels" = "오디오 채널";
+
+"Creator" = "창조자";
+
+"Producer" = "생산자";
+
+"None" = "없음";
+
+"Drives" = "드라이브";
+
+"Author" = "저자";
+
+"Description" = "기술";
+
+"Copyrights" = "저작권";
+
+"Contributor" = "기부자";
+
+"Albumname" = "Albumname";
+
+"Artist" = "예술가";
+
+"Image compression" = "이미지 압축";
+
+"Confirm password" = "비밀번호 확인";
+
+"New Password" = "새 비밀번호";
+
+"Password do not match" = "비밀번호가 일치하지 않습니다";
+
+"Enter old password" = "이전 암호 입력";
+
+"Enter new password" = "새 비밀번호를 입력하십시오";
+
+"Enter confirm password" = "비밀번호 확인을 입력하십시오.";
+
+"Invalid old password" = "이전 암호가 잘못되었습니다.";
+
+"Connect to" = "에 연결";
+
+"Check out this application on the App Store" = "앱 스토어에서이 애플리케이션을 확인하십시오.";
+
+"Designed and Devloped By" = "설계 및 개발로";
+
+"Select Folder" = "폴더 선택";
+
+"Invalid password. Password do not match" = "유효하지 않은 비밀번호. 비밀번호가 일치하지 않습니다";
+
+"Check out" = "체크 아웃";
+
+"Website Support" = "웹 사이트 지원";
+
+"FAQ" = "자주하는 질문";
+
+"Sign In" = "로그인";
+
+"Attachements" = "첨부";
+
+"Content" = "함유량";
+
+"Error in creating  note" = "메모를 만드는 중 오류가 발생했습니다.";
+
+"Note created successfully" = "메모가 성공적으로 생성되었습니다.";
+
+"Note upload started in background" = "백그라운드에서 메모 업로드가 시작되었습니다.";
+
+"Create Note" = "메모 작성";
+
+"Enter note title" = "메모 제목 입력";
+
+"Select Tag" = "태그 선택";
+
+"Add Folder Shortcut" = "폴더 바로 가기 추가";
+
+"Add Local Folder Shortcut" = "로컬 폴더 바로 가기 추가";
+
+"Add Cloud Shortcut" = "클라우드 바로 가기 추가";
+
+"Select folder to add shortcut" = "추가 할 폴더 선택 바로 가기";
+
+"Add to shortcut" = "바로 가기에 추가";
+
+"Title" = "표제";
+
+"Compressed image used for fast process and reduce size without losing quality" = "빠른 프로세스에 사용되는 압축 이미지 및 품질 손실없이 크기 축소";
+
+"Authenticate and open File Manager." = "파일 관리자를 인증하고여십시오.";
+
+"Authenticate and open Private Documents." = "개인 문서를 인증하고여십시오.";
+
+"Private Docs" = "비공개 문서 도구";
+
+"Add to shortcuts" = "바로 가기에 추가";
+
+"Pause" = "중지";
+
+"Select Notebook" = "노트북 선택";
+
+

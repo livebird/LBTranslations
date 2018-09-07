@@ -1,0 +1,889 @@
+/*
+  Localizable.strings
+  Recorder
+
+  Created by LiveBird on 17/10/13.
+  Copyright (c) 2013 LiveBird. All rights reserved.
+*/
+
+"Forgot Password" = "Забыли пароль";
+
+"Error in sending request" = "Ошибка при отправке запроса";
+
+"File Manager Pro" = "Файловый менеджер Pro";
+
+"Create PDF with unlimited pages" = "Создание PDF с неограниченными страницами";
+
+"Unlock Hand drawing" = "Разблокировать рисование руки";
+
+"Unlock Text File creator" = "Разблокировать создателя текстового файла";
+
+"Unlock Audio Recording" = "Разблокировать аудиозапись";
+
+"Unlock clouds" = "Разблокировать облака";
+
+"Remove ads" = "Убрать рекламу";
+
+"Upgrade" = "Обновить";
+
+"Restore Purchases" = "Восстановить покупки";
+
+"Cancel" = "Отмена";
+
+"Crash Report" = "Отчет о сбое";
+
+"File Manager was closed abnormally. Do you want to send that crash report to us ? It will help us to improve File Manager app." = "Диспетчер файлов был закрыт ненормально. Вы хотите отправить нам отчет о сбоях? Это поможет нам улучшить приложение File Manager.";
+
+"Send" = "послать";
+
+"Always Send Automatically" = "Всегда отправлять автоматически";
+
+"Category" = "категория";
+
+"Documents" = "документы";
+
+"Import" = "Импортировать";
+
+"File imported" = "Файл импортирован";
+
+"Ok" = "ОК";
+
+"Open" = "открыто";
+
+"Reveal" = "Выявить";
+
+"Import File" = "Импортировать файл";
+
+"Enter Passcode" = "Введите пароль";
+
+"Enter Password" = "Введите пароль";
+
+"You have entered an incorrect passcode too many times." = "Вы ввели неверный пароль слишком много раз.";
+
+"Dropbox" = "Dropbox";
+
+"OneDrive" = "Один диск";
+
+"SugarSync" = "SugarSync";
+
+"Google Drive" = "Гугл Диск";
+
+"Box.net" = "Box.net";
+
+"WebDAV Server" = "Сервер WebDAV";
+
+"FTP Server" = "FTP-сервер";
+
+"Recent File" = "Недавний файл";
+
+"Protected PDF" = "Защищенный PDF-файл";
+
+"Enter PDF Password" = "Введите пароль PDF";
+
+"Open PDF" = "Открыть PDF-файл";
+
+"Unable to open PDF" = "Не удалось открыть PDF-файл";
+
+"Images" = "Изображений";
+
+"Video" = "видео";
+
+"Zips" = "Молнии";
+
+"Audio" = "аудио";
+
+"Wifi" = "вай-фай";
+
+"iTunes Files" = "Файлы iTunes";
+
+"Trash" = "дрянь";
+
+"iCloud" = "ICloud";
+
+"Unzip Archive" = "Распаковать архив";
+
+"Do you want unzip file?" = "Вы хотите распаковать файл?";
+
+"Unzip" = "расстегнуть молнию";
+
+"Enter your email id" = "Введите свой адрес электронной почты";
+
+"Submit" = "Отправить";
+
+"Private" = "Частный";
+
+"You have not set password for your private documents yet.Do you want set it now?" = "Вы еще не задали пароль для своих личных документов. Вы хотите установить его сейчас?";
+
+"Set" = "Задавать";
+
+"Later" = "Позже";
+
+"Put Back" = "Отложить";
+
+"Remove Shortcut" = "Удалить ярлык";
+
+"Create Shortcut" = "Создать ярлык";
+
+"Make Zip" = "Сделать Zip";
+
+"Email" = "Эл. адрес";
+
+"Open In" = "Открыть в";
+
+"Upload" = "Загрузить";
+
+"Share" = "Поделиться";
+
+"Delete" = "Удалить";
+
+"Rename" = "переименовывать";
+
+"More Info" = "Больше информации";
+
+"Microphone Access Denied" = "Отмена доступа к микрофону";
+
+"This app requires access to your device's Microphone." = "Это приложение требует доступа к микрофону вашего устройства.";
+
+"Please enable Microphone access for File Manager in Settings / Privacy / Microphone" = "Включите доступ к микрофону для Диспетчера файлов в настройках / Конфиденциальность / Микрофон";
+
+"Dismiss" = "отклонять";
+
+"Item moved to Document folder" = "Элемент перемещен в папку «Документ»";
+
+"Copy" = "копия";
+
+"Move" = "Переехать";
+
+"Recover Recording" = "Восстановить запись";
+
+"Not save recording found. Do you want save it?" = "Не сохранять запись. Вы хотите сохранить его?";
+
+"Save" = "Сохранить";
+
+"Recent" = "последний";
+
+"WiFi Share" = "Доля WiFi";
+
+"WiFi Sharing is off. Do you want to enable it?" = "Разделение WiFi отключено. Вы хотите включить его?";
+
+"Enable" = "включить";
+
+"Advance File Manager" = "Advance File Manager";
+
+"Slide to show options." = "Слайд для отображения параметров.";
+
+"delete, rename, mail, upload and more" = "удалять, переименовывать, отправлять, загружать и многое другое";
+
+"PDF Scanner & Audio Recording" = "Сканер PDF и аудиозапись";
+
+"Scan more than 100 pages and convert to PDF & Quick Audio" = "Сканировать более 100 страниц и конвертировать в PDF & Quick Audio";
+
+"Import anything you want" = "Импортируйте все, что хотите";
+
+"Import Photo, Video, Music." = "Импорт фотографий, видео, музыки.";
+
+"Import From Cloud & Drives." = "Импорт из облаков и дисков.";
+
+"Import From Clipboard." = "Импорт из буфера обмена.";
+
+"Faster than ever" = "Быстрее, чем когда-либо";
+
+"Select multiple files to copy, move, email, upload etc." = "Выберите несколько файлов для копирования, перемещения, отправки по электронной почте, загрузки и т. Д.";
+
+"File Sharing" = "Общий доступ к файлам";
+
+"Wifi secured file sharing." = "Wifi обеспечено совместное использование файлов.";
+
+"Cloud sharing" = "Обмен облаками";
+
+"Share files to cloud quickly." = "Быстрое разделение файлов на облако.";
+
+"More" = "Больше";
+
+"File Manager" = "Файловый менеджер";
+
+"Zip" = "застежка-молния";
+
+"WiFi Share Off" = "WiFi Share Off";
+
+"Empty Trash" = "Очистить корзину";
+
+"Empty" = "пустой";
+
+"Clear" = "Очистить";
+
+"Action" = "действие";
+
+"Waiting..." = "Ожидание ...";
+
+"Completed" = "Завершенный";
+
+"Cancelled" = "Отменено";
+
+"Done" = "Готово";
+
+"Edit" = "редактировать";
+
+"Create Folder" = "Создать папку";
+
+"Folder created." = "Папка создана.";
+
+"Folder not create." = "Папка не создавать.";
+
+"Creating folder..." = "Создание папки ...";
+
+"Folder create failed." = "Папка создавать не удалось.";
+
+"Scanner" = "сканер";
+
+"Note" = "Заметка";
+
+"Drawing" = "Рисование";
+
+"Recorder" = "самописец";
+
+"Photo Library" = "Фотобиблиотека";
+
+"Camera" = "камера";
+
+"Video Library" = "Видеотека";
+
+"Cloud & Drive" = "Облачный диск";
+
+"Music Library" = "Музыкальная библиотека";
+
+"Imported Successfully!" = "Импортировано успешно!";
+
+"Some error in importing music." = "Некоторая ошибка при импорте музыки.";
+
+"Importing" = "Импорт";
+
+"File imported successfully!" = "Файл импортирован успешно!";
+
+"Error" = "ошибка";
+
+"File uploaded successfully!" = "Файл успешно загружен!";
+
+"Clipboard" = "буфер обмена";
+
+"Images imported" = "Изображения импортированы";
+
+"Image imported" = "Изображение импортировано";
+
+"Clipboard is Empty" = "Буфер обмена пуст";
+
+"Import File(s)" = "Импортировать файл (ы)";
+
+"Document Drives" = "Документы";
+
+"Clouds" = "Облака";
+
+"Imported successfully!" = "Импортировано успешно!";
+
+"Import video successfully!" = "Импортировать видео успешно!";
+
+"Add Folder" = "Добавить папку";
+
+"New Folder With Selected Items" = "Новая папка с выбранными элементами";
+
+"New Folder" = "Новая папка";
+
+"Enter folder name" = "Введите имя папки";
+
+"Create" = "Создайте";
+
+"Item with same name already exists" = "Элемент с таким же именем уже существует";
+
+"Item with same name already exist at path" = "Элемент с таким же именем уже существует на пути";
+
+"Loading..." = "Loading ...";
+
+"Total Item(s)" = "Всего предметов (ов)";
+
+"Are you sure?" = "Ты уверен?";
+
+"Create PDF" = "Создать PDF-файл";
+
+"File with same name already exist" = "Файл с таким же именем уже существует";
+
+"Overwrite" = "затирать";
+
+"Keep both" = "Оставить оба";
+
+"Image to PDF" = "Изображение в PDF";
+
+"PDF Saved" = "Сохранено в PDF";
+
+"Your %@ doesn't seem to have any other Apps installed that can open this document." = "У вашего% @, похоже, нет других установленных приложений, которые могли бы открыть этот документ.";
+
+"No suitable Apps installed" = "Нет установленных приложений";
+
+"Select destination folder to copy items" = "Выберите папку назначения для копирования элементов";
+
+"MOVE" = "ПЕРЕЕХАТЬ";
+
+"CURRENT PLAYING AUDIO FILE CAN NOT MOVE." = "ТЕКУЩИЙ ИГРОВОЙ АУДИО ФАЙЛ НЕ МОЖЕТ ПЕРЕДАТЬ.";
+
+"Can't move into same directory" = "Не может перемещаться в один и тот же каталог";
+
+"Skip" = "Пропускать";
+
+"Select destination folder to move items" = "Выберите папку назначения для перемещения элементов";
+
+"Delete File(s)" = "Удалить файлы)";
+
+"CURRENT PLAYING AUDIO FILE CAN NOT DELETE." = "ТЕКУЩИЙ ПРОИГРЫВАТЕЛЬ АУДИО НЕ МОЖЕТ УДАЛИТЬ.";
+
+"DELETE" = "УДАЛИТЬ";
+
+"Mail" = "почта";
+
+"Can't send mail. Please Check your mail account setup" = "Не удается отправить почту. Проверьте настройки учетной записи электронной почты.";
+
+"Your attachment(s) size is large" = "Размер вашего приложения (ов) большой";
+
+"This may create problem while sending mail" = "Это может создать проблему при отправке почты";
+
+"Proceed any way" = "Все равно продолжайте";
+
+"Upload File(s)" = "Загрузить файлы)";
+
+"Enter name" = "Введите имя";
+
+"Archive" = "Архив";
+
+"Successfully zipped!" = "Успешно застегнут!";
+
+"Please wait" = "пожалуйста, подождите";
+
+"Shortcut created" = "Создан ярлык";
+
+"Shortcut add to categories list successfully" = "Список ярлыков в списке категорий успешно";
+
+"Private Documents" = "Частные документы";
+
+"Invalid Password" = "Неверный пароль";
+
+"Retry" = "Retry";
+
+"Are you sure you want to logout?" = "Вы действительно хотите выйти?";
+
+"Logout" = "Выйти";
+
+"Help" = "Помогите";
+
+"View Welcome tutorials" = "Просмотреть приветственные обучающие программы";
+
+"Settings" = "настройки";
+
+"optional" = "необязательный";
+
+"FTP Share" = "Доля FTP";
+
+"Error in starting FTP Share. Check your WiFi Connection" = "Ошибка при запуске FTP. Проверьте подключение к WiFi";
+
+"Error in starting WiFi Share. Check your WiFi Connection" = "Ошибка при запуске WiFi. Проверьте подключение к WiFi";
+
+"File Manager Settings" = "Настройки файлового менеджера";
+
+"Security Settings" = "Настройки безопасности";
+
+"Custom PDF Viewer" = "Пользовательский PDF-просмотрщик";
+
+"Cloud Settings" = "Настройки облаков";
+
+"Username" = "имя пользователя";
+
+"Password" = "пароль";
+
+"Rate File Manager" = "Менеджер файлов скорости";
+
+"Send Feedback" = "Отправить отзыв";
+
+"Tell a Friend" = "Расскажи другу";
+
+"Report a bug" = "Сообщить об ошибке";
+
+"More Apps" = "Больше приложений";
+
+"Buy File Manager Pro" = "Купить File Manager Pro";
+
+"Scanner Settings" = "Настройки сканера";
+
+"Unlock Items" = "Разблокировать элементы";
+
+"Addons" = "Addons";
+
+"Feedback and Share" = "Обратная связь и доля";
+
+"Use Custom PDF Viewer" = "Использовать пользовательский просмотрщик PDF";
+
+"Enable file sharing over WiFi" = "Включить обмен файлами через WiFi";
+
+"in your computer browser to manage files shared with WiFi" = "в вашем браузере компьютера для управления файлами, совместно используемыми WiFi";
+
+"Enable file sharing over FTP" = "Включить совместное использование файлов по FTP";
+
+"Enable to use Custom PDF Viewer instead of using the built in PDF viewer." = "Включите использование Custom PDF Viewer вместо использования встроенного средства просмотра PDF.";
+
+"Custom PDF Viewer will not be able to open large PDF files" = "Пользовательский PDF Viewer не сможет открывать большие PDF-файлы";
+
+"Send Mail" = "Отправить письмо";
+
+"Use Image Editor" = "Использовать редактор изображений";
+
+"Original" = "оригинал";
+
+"Compressed" = "Сжатый";
+
+"Image Editor" = "Редактор изображений";
+
+"Image Scan Quality" = "Качество сканирования изображения";
+
+"Use image editor while adding image to PDF scanner" = "Используйте редактор изображений при добавлении изображения в PDF-сканер";
+
+"Compressed image used for fast process of scan PDF and reduce size" = "Сжатое изображение, используемое для быстрого процесса сканирования PDF и уменьшения размера";
+
+"Player Settings" = "Настройки проигрывателя";
+
+"Passcode Lock" = "Код блокировки";
+
+"On" = "На";
+
+"Off" = "от";
+
+"Change Password" = "Изменить пароль";
+
+"Touch Id Lock" = "Сенсорный идентификатор блокировки";
+
+"Export" = "экспорт";
+
+"App Password Lock" = "Блокировка пароля приложения";
+
+"Private Files" = "Частные файлы";
+
+"Touch Id" = "Touch Id";
+
+"On app launch or resume it will prompt for entering password" = "При запуске или возобновлении приложения будет предложено ввести пароль";
+
+"Change password of your private files" = "Изменение пароля ваших личных файлов";
+
+"Change Passcode" = "Изменить пароль";
+
+"Turn Off" = "Выключить";
+
+"Old Password" = "Старый пароль";
+
+"Show Thumbnail" = "Показать миниатюру";
+
+"Recent Items" = "Последние статьи";
+
+"Private Items" = "Частные объекты";
+
+"Utility Folder Hide/Show" = "Скрыть / Показать";
+
+"Thumbnails are not generated for file size larger than 5MB." = "Миниатюры не генерируются для размера файла более 5 МБ.";
+
+"Memory Capacity of" = "Объем памяти";
+
+"with" = "с";
+
+"Free memory available." = "Доступна свободная память.";
+
+"Hide/Show Cloud" = "Скрыть / показать облако";
+
+"Turn off the cloud it will hide from the list" = "Отключить облако, которое он скроет из списка.";
+
+"Select Prefix Label" = "Выберите префиксную метку";
+
+"Add Label" = "Добавить ярлык";
+
+"Enter Label name" = "Введите название ярлыка";
+
+"Uploading" = "Выгрузка";
+
+"Item(s)" = "Предметы)";
+
+"Open Uploads" = "Открытые загрузки";
+
+"Shortcut" = "кратчайший путь";
+
+"Cloud List" = "Список облаков";
+
+"Navigate to sub folders and create shortcuts" = "Перейдите в подпапки и создайте ярлыки";
+
+"No cloud shortcut found" = "Не найдено ярлыков облаков";
+
+"Are you sure to logout?" = "Вы обязательно выходите из системы?";
+
+"Shortcut add to cloud list successfully" = "Быстрый набор для добавления в список облаков";
+
+"New File" = "Новый файл";
+
+"Drawing Settings" = "Настройки чертежа";
+
+"Stroke Color" = "Цвет обводки";
+
+"Eraser" = "ластик";
+
+"Background Color" = "Фоновый цвет";
+
+"New Drawing" = "Новый чертеж";
+
+"Do you want to save document?" = "Вы хотите сохранить документ?";
+
+"want to add this?" = "Хотите добавить это?";
+
+"Save File" = "Сохранить файл";
+
+"New Text File" = "Новый текстовый файл";
+
+"want to save document?" = "хотите сохранить документ?";
+
+"Text File Saved" = "Сохраненный текстовый файл";
+
+"Text to PDF" = "Текст в PDF";
+
+"File with same name exist" = "Файл с таким же именем существует";
+
+"Send by E-mail" = "Послать по электронной почте";
+
+"Add Bookmark" = "Добавить закладку";
+
+"Bookmarks" = "закладки";
+
+"Add Page" = "Добавить страницу";
+
+"Select File" = "Выберите файл";
+
+"Hand Drawing" = "Ручной рисунок";
+
+"Map Snap" = "Карта привязки";
+
+"Rich Text" = "Богатый текст";
+
+"Select files to add" = "Выберите файлы для добавления";
+
+"Edit Images?" = "Редактировать изображения?";
+
+"Save PDF" = "Сохранить PDF";
+
+"Do you want to save PDF?" = "Вы хотите сохранить PDF?";
+
+"Creating PDF" = "Создание PDF-файла";
+
+"Clear Pages" = "Очистить страницы";
+
+"Are you sure to clear list of created pages?" = "Вы уверены, что очистили список созданных страниц?";
+
+"This Image" = "Это изображение";
+
+"All Remaining Images" = "Все оставшиеся изображения";
+
+"Rich text page" = "Богатая текстовая страница";
+
+"Allow Printing Content" = "Разрешить печать содержимого";
+
+"Allow Copying Content" = "Разрешить копирование содержимого";
+
+"Orientation" = "ориентация";
+
+"Encrypt PDF" = "Шифрование PDF";
+
+"File Details" = "Сведения о файле";
+
+"Name" = "имя";
+
+"Date Created" = "Дата создания";
+
+"Date Modified" = "Дата изменена";
+
+"Size" = "Размер";
+
+"Format" = "Формат";
+
+"Move to trash" = "Переместить в корзину";
+
+"CURRENT PLAYING AUDIO FILE CAN NOT DELETE" = "ТЕКУЩИЙ ИГРОВЫЙ АУДИОВЫЙ ФАЙЛ НЕ УДАЛЯЕТСЯ";
+
+"Warning" = "Предупреждение";
+
+"Audio input hardware not available" = "Оборудование для аудиовхода недоступно";
+
+"Save Recording" = "Сохранить запись";
+
+"Enter file name" = "Введите имя файла";
+
+"Error in saving recording" = "Ошибка при сохранении записи";
+
+"Saved Successfully" = "Успешно сохранено";
+
+"Recording Deleted" = "Запись удалена";
+
+"Recording" = "запись";
+
+"Select Option" = "Выберите опцию";
+
+"Music Player" = "Музыкальный проигрыватель";
+
+"List" = "Список";
+
+"Current Folder" = "Текущая папка";
+
+"All Folder" = "Все папки";
+
+"Protected files cannot be imported." = "Защищенные файлы не могут быть импортированы.";
+
+"Import Failed" = "Ошибка импорта";
+
+"Improt successfully!" = "Успешно!";
+
+"items" = "Предметы";
+
+"stroke width" = "ширина хода";
+
+"pick color" = "выбрать цвет";
+
+"Drawing Saved - " = "Сохранение чертежа -";
+
+"Low" = "Низкий";
+
+"Good" = "Хорошо";
+
+"Best" = "Лучший";
+
+"Resume" = "Возобновить";
+
+"Stop" = "Стоп";
+
+"selected" = "выбранный";
+
+"Current Folder" = "Текущая папка";
+
+"All Folder" = "Все папки";
+
+"Add" = "Добавить";
+
+"Imported Files" = "Импортированные файлы";
+
+"Add New Label" = "Добавить новую метку";
+
+"Date" = "Дата";
+
+"Music" = "Музыка";
+
+"Spotlight Search" = "Поиск в Spotlight";
+
+"Designed and Developed By" = "Разработано и разработано";
+
+"Photos" = "Фото";
+
+"Photo Selected" = "Выбранная фотография";
+
+"Yes" = "да";
+
+"No" = "нет";
+
+"Landscape" = "Пейзаж";
+
+"Portrait" = "Портрет";
+
+"Owner Password" = "Пароль владельца";
+
+"User Password" = "Пользовательский пароль";
+
+"File Name*" = "Имя файла*";
+
+"Author Name" = "Имя автора";
+
+"Creator Name" = "Имя создателя";
+
+"Title" = "заглавие";
+
+"Subject" = "Предмет";
+
+"Keywords" = "Ключевые слова";
+
+"PDF Details" = "Детали PDF";
+
+"Enter search text here" = "Введите текст поиска здесь.";
+
+"Standrad" = "стандарт";
+
+"Sattelite" = "спутник";
+
+"Hybrid" = "Гибридный";
+
+"BG Color" = "Цвет BG";
+
+"Text Color" = "Цвет текста";
+
+"RichText Editor" = "Редактор RichText";
+
+"Record" = "запись";
+
+"Try again once you have an internet connection." = "Повторите попытку после подключения к Интернету.";
+
+"No internet connection" = "Нет соединения с интернетом";
+
+"Completed of" = "Завершено";
+
+"failed to upload" = "не удалось загрузить";
+
+"Login Failure" = "Ошибка входа в систему";
+
+"Office WebDav Server" = "Сервер Office WebDav";
+
+"Enter WebDav URL" = "Введите URL WebDav";
+
+"Required" = "необходимые";
+
+"Optional" = "Необязательный";
+
+"Uploading..." = "Загрузка ...";
+
+"Importing..." = "Импорт ...";
+
+"upload(s) started in background" = "загрузка (загрузки) в фоновом режиме";
+
+"Office FTP Server" = "Сервер Office FTP";
+
+"Enter Name" = "Введите имя";
+
+"Enter Host" = "Введите хост";
+
+"Cloud Upload" = "Cloud Upload";
+
+"Failed" = "Не смогли";
+
+"Dimensions" = "Габаритные размеры";
+
+"Color Model" = "Цветная модель";
+
+"File Info" = "Информация о файле";
+
+"FILE INFO" = "ИНФОРМАЦИЯ ДЛЯ ФАЙЛОВ";
+
+"Share & Action" = "Доля и действие";
+
+"SHARE & ACTION" = "АКЦИЯ И ДЕЙСТВИЯ";
+
+"Version" = "Версия";
+
+"Pages" = "страницы";
+
+"Security" = "Безопасность";
+
+"Allow Printing" = "Разрешить печать";
+
+"Allow Copying" = "Разрешить копирование";
+
+"Password Encrypted" = "Пароль зашифрован";
+
+"Duration" = "продолжительность";
+
+"Codecs" = "Кодеки";
+
+"Sample rate" = "Частота дискретизации";
+
+"Bit per sample" = "Бит на образец";
+
+"Audio channels" = "Звуковые каналы";
+
+"Creator" = "творец";
+
+"Producer" = "Режиссер";
+
+"None" = "Никто";
+
+"Drives" = "приводы";
+
+"Author" = "автор";
+
+"Description" = "Описание";
+
+"Copyrights" = "Авторские права";
+
+"Contributor" = "участник";
+
+"Albumname" = "Название альбома";
+
+"Artist" = "художник";
+
+"Image compression" = "Сжатие изображения";
+
+"Confirm password" = "Подтвердите Пароль";
+
+"New Password" = "новый пароль";
+
+"Password do not match" = "Пароль не подходит";
+
+"Enter old password" = "Введите старый пароль";
+
+"Enter new password" = "Введите новый пароль";
+
+"Enter confirm password" = "Введите пароль подтверждения";
+
+"Invalid old password" = "Неверный старый пароль";
+
+"Connect to" = "Подключиться к";
+
+"Check out this application on the App Store" = "Проверьте это приложение в магазине приложений.";
+
+"Designed and Devloped By" = "Разработанный и разработанный";
+
+"Select Folder" = "Выберите папку";
+
+"Invalid password. Password do not match" = "Неверный пароль. Пароль не подходит";
+
+"Check out" = "Проверять, выписываться";
+
+"Website Support" = "Поддержка сайта";
+
+"FAQ" = "Вопросы-Ответы";
+
+"Sign In" = "Войти в систему";
+
+"Attachements" = "отсоединяемые";
+
+"Content" = "содержание";
+
+"Error in creating  note" = "Ошибка при создании примечания";
+
+"Note created successfully" = "Примечание успешно создано";
+
+"Note upload started in background" = "Загрузка заметок началась в фоновом режиме";
+
+"Create Note" = "Создать заметку";
+
+"Enter note title" = "Введите название заметки";
+
+"Select Tag" = "Выбрать тег";
+
+"Add Folder Shortcut" = "Добавить ярлык папки";
+
+"Add Local Folder Shortcut" = "Добавить ярлык локальных папок";
+
+"Add Cloud Shortcut" = "Добавить облачный ярлык";
+
+"Select folder to add shortcut" = "Выберите папку для добавления ярлыка";
+
+"Add to shortcut" = "Добавить в ярлык";
+
+"Title" = "заглавие";
+
+"Compressed image used for fast process and reduce size without losing quality" = "Сжатое изображение, используемое для быстрого процесса и уменьшения размера без потери качества";
+
+"Authenticate and open File Manager." = "Аутентификация и открытие диспетчера файлов.";
+
+"Authenticate and open Private Documents." = "Аутентификация и открытие приватных документов.";
+
+"Private Docs" = "Частные документы";
+
+"Add to shortcuts" = "Добавить в ярлыки";
+
+"Pause" = "Пауза";
+
+"Select Notebook" = "Выбор ноутбука";
+
+

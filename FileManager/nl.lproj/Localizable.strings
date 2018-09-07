@@ -1,0 +1,57 @@
+/*
+ Localizable.strings
+ Recorder
+ 
+ Created by LiveBird on 17/10/13.
+ Copyright (c) 2013 LiveBird. All rights reserved.
+ */
+
+//FileList
+"Ok" = "goed";
+"Delete File(s)" = "Delete File (s)";
+"Cancel" = "annuleren";
+"Delete" = "verwijderen";
+"Mail" = "mail";
+"Can't send mail. Please Check your mail account setup" = "Kan mail niet versturen. Gelieve Controleer uw e-mailaccount instellen";
+"Enter Password" = "Enter Password";
+"Total Files" = "Totaal Bestanden";
+"Private" = "prive-";
+"Music Library" = "muziekbibliotheek";
+"Recent" = "recent";
+"Rename" = "andere naam geven";
+"Item with same name already exist at path" = "Punt met dezelfde naam al bestaat op pad";
+"Add Folder" = "map toevoegen";
+"Done" = "gedaan";
+"Edit" = "uitgeven";
+"Clear"  = "duidelijk";
+"Recover Recording" = "Recover opnemen";
+"Not save recording found. Do you want save it ?" = "Niet opslaan opname gevonden. Wil je opslaan?";
+"Copy" = "kopiëren";
+"Move" = "bewegen";
+"Delete" = "verwijderen";
+"More" = "meer";
+"Email" = "e-mail";
+"Make Zip"= "maak Zip";
+"Open In" = "openen in";
+"Upload" = "uploaden";
+"Name" = "naam";
+"Date" = "datum";
+"Size"  = "maat";
+
+//Settings
+"Settings" = "instellingen";
+
+
+//Recording
+"Good" = "goed";
+"Better" = "beter";
+"Best" = "best";
+"Recording" = "opname";
+"Saved Successfully" = "succesvol opgeslagen";
+"Error in saving recording" = "Fout bij het opslaan van de opname";
+"Save Recording" = "Opname opslaan";
+"Recording Deleted" = "opnemen Verwijderde";
+"Are sure want to delete this recording?" = "Zijn zeker wilt deze opname verwijderen?";
+"Warning" = "waarschuwing";
+"Audio input hardware not available" = "Audio-ingang hardware niet beschikbaar";
+
