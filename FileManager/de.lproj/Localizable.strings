@@ -13,7 +13,7 @@
 
 "File Manager Pro" = "Dateimanager Pro";
 
-"Create PDF with unlimited pages" = "Erstellen Sie PDF mit unbegrenzten Seiten";
+"Create PDF with unlimited pages" = "PDF mit unbegrenzten Seiten erstellen";
 
 "Unlock Hand drawing" = "Handzeichnung freischalten";
 
@@ -43,7 +43,7 @@
 
 "Documents" = "Dokumente";
 
-"Import" = "Importieren";
+"Import" = "Import";
 
 "File imported" = "Datei wurde importiert";
 
@@ -113,9 +113,9 @@
 
 "Private" = "Privat";
 
-"You have not set password for your private documents yet.Do you want set it now?" = "Sie haben noch kein Passwort für Ihre privaten Dokumente festgelegt. Möchten Sie es jetzt einstellen?";
+"You have not set password for your private documents yet.Do you want set it now?" = "Sie haben noch kein Passwort für Ihre privaten Dokumente festgelegt. Möchten Sie es jetzt festlegen?";
 
-"Set" = "Einstellen";
+"Set" = "Festlegen";
 
 "Later" = "Später";
 
@@ -127,11 +127,11 @@
 
 "Make Zip" = "Zip erstellen";
 
-"Email" = "Email";
+"Email" = "E-Mail";
 
 "Open In" = "Öffnen in";
 
-"Upload" = "Hochladen";
+"Upload" = "Upload";
 
 "Share" = "Teilen";
 
@@ -173,23 +173,23 @@
 
 "Slide to show options." = "Schieben Sie, um Optionen anzuzeigen.";
 
-"delete, rename, mail, upload and more" = "löschen, umbenennen, mailen, hochladen und mehr";
+"delete, rename, mail, upload and more" = "löschen, umbenennen, mailen, uploaden und mehr";
 
 "PDF Scanner & Audio Recording" = "PDF-Scanner & Audioaufnahme";
 
-"Scan more than 100 pages and convert to PDF & Quick Audio" = "Mehr als 100 Seiten scannen und konvertieren es in PDF & Quick Audio";
+"Scan more than 100 pages and convert to PDF & Quick Audio" = "Mehr als 100 Seiten scannen und es in PDF & Quick Audio konventieren";
 
 "Import anything you want" = "Importieren Sie alles, was Sie wollen";
 
 "Import Photo, Video, Music." = "Importieren Sie Foto, Video, Musik.";
 
-"Import From Cloud & Drives." = "Importieren von Cloud & Drives.";
+"Import From Cloud & Drives." = "Von Cloud & Drives importieren.";
 
 "Import From Clipboard." = "Aus der Zwischenablage importieren";
 
 "Faster than ever" = "Schneller als je zuvor";
 
-"Select multiple files to copy, move, email, upload etc." = "Wählen Sie mehrere Dateien zum Kopieren, Verschieben, E-Mailen, Hochladen usw.";
+"Select multiple files to copy, move, email, upload etc." = "Wählen Sie mehrere Dateien zum Kopieren, Verschieben, E-Mailen, Uploaden usw... aus";
 
 "File Sharing" = "Dateifreigabe";
 
@@ -207,9 +207,9 @@
 
 "WiFi Share Off" = "WLAN teilen aus";
 
-"Empty Trash" = "Leerer Papierkorb";
+"Empty Trash" = "Papierkorb leeren";
 
-"Empty" = "Leer";
+"Empty" = "Leeren";
 
 "Clear" = "Leeren";
 
@@ -231,7 +231,7 @@
 
 "Folder not create." = "Ordner nicht erstellen.";
 
-"Creating folder..." = "Ordner wird erstellt ...";
+"Creating folder..." = "Ordner wird erstellt...";
 
 "Folder create failed." = "Ordner erstellen fehlgeschlagen.";
 
@@ -285,7 +285,7 @@
 
 "Add Folder" = "Ordner hinzufügen";
 
-"New Folder With Selected Items" = "Neuer Ordner mit ausgewählten Objekten";
+"New Folder With Selected Items" = "Neuer Ordner mit den ausgewählten Objekten";
 
 "New Folder" = "Neuer Ordner";
 
@@ -319,7 +319,7 @@
 
 "No suitable Apps installed" = "Keine geeigneten Apps installiert";
 
-"Select destination folder to copy items" = "Zielordner auswählen, um Objekte zu kopieren";
+"Select destination folder to copy items" = "Zielordner auswählen, um die Objekte zu kopieren";
 
 "MOVE" = "VERSCHIEBEN";
 
@@ -329,7 +329,7 @@
 
 "Skip" = "Überspringen";
 
-"Select destination folder to move items" = "Zielordner auswählen, um Objekte zu verschieben";
+"Select destination folder to move items" = "Zielordner auswählen, um die Objekte zu verschieben";
 
 "Delete File(s)" = "Datei(en) löschen";
 
@@ -399,11 +399,11 @@
 
 "Rate File Manager" = "Dateimanager bewerten";
 
-"Send Feedback" = "Feedback abschicken";
+"Send Feedback" = "Feedback senden";
 
-"Tell a Friend" = "Erzählen Sie einem Freund";
+"Tell a Friend" = "Einem Freund empfehlen";
 
-"Report a bug" = "Melde einen Fehler";
+"Report a bug" = "Einen Fehler melden";
 
 "More Apps" = "Weitere Apps";
 
@@ -415,17 +415,17 @@
 
 "Addons" = "Addons";
 
-"Feedback and Share" = "Feedback und teilen";
+"Feedback and Share" = "Feedback und Teilen";
 
-"Use Custom PDF Viewer" = "Benutzerdefinierten PDF-Viewer verwenden";
+"Use Custom PDF Viewer" = "Benutzerdefinierter PDF-Viewer verwenden";
 
 "Enable file sharing over WiFi" = "Dateifreigabe über WLAN aktivieren";
 
-"in your computer browser to manage files shared with WiFi" = "in Ihrem Computer-Browser, um mit WLAN freigegebene Dateien zu verwalten";
+"in your computer browser to manage files shared with WiFi" = "In Ihrem Computer-Browser können Sie die Dateien verwalten, die per WLAN geteilt werden";
 
 "Enable file sharing over FTP" = "Dateifreigabe über FTP aktivieren";
 
-"Enable to use Custom PDF Viewer instead of using the built in PDF viewer." = "Benutzerdefinierten PDF-Viewer aktivieren anstelle den integrierten PDF-Viewer.";
+"Enable to use Custom PDF Viewer instead of using the built in PDF viewer." = "Benutzerdefinierter PDF-Viewer aktivieren anstelle den integrierten PDF-Viewer.";
 
 "Custom PDF Viewer will not be able to open large PDF files" = "Der benutzerdefinierte PDF-Viewer kann keine großen PDF-Dateien öffnen";
 
@@ -443,7 +443,7 @@
 
 "Use image editor while adding image to PDF scanner" = "Bildbearbeiter verwenden, während Sie dem PDF-Scanner ein Bild hinzufügen";
 
-"Compressed image used for fast process of scan PDF and reduce size" = "Komprimiertes Bild, das für den schnellen Scanvorgang von PDF verwendet wird um die Größe zu reduzieren";
+"Compressed image used for fast process of scan PDF and reduce size" = "Komprimiertes Bild wird für den schnellen Scanvorgang von PDF verwendet und es reduziert die Größe";
 
 "Player Settings" = "Player-Einstellungen";
 
@@ -483,7 +483,7 @@
 
 "Utility Folder Hide/Show" = "Dienstprogrammordner ausblenden/anzeigen";
 
-"Thumbnails are not generated for file size larger than 5MB." = "Vorschaubilder werden nicht für Dateigrößen größer als 5 MB generiert.";
+"Thumbnails are not generated for file size larger than 5MB." = "Vorschaubilder werden nicht für Dateigrößen, die größer als 5 MB generiert.";
 
 "Memory Capacity of" = "Speicherkapazität von";
 
@@ -493,7 +493,7 @@
 
 "Hide/Show Cloud" = "Cloud ausblenden/anzeigen";
 
-"Turn off the cloud it will hide from the list" = "Die Cloud ausschalten, damit es nicht mehr in der Liste befindet";
+"Turn off the cloud it will hide from the list" = "Die Cloud ausschalten, damit es in der Liste ausgeblendet wird";
 
 "Select Prefix Label" = "Präfixbezeichnung auswählen";
 
@@ -501,7 +501,7 @@
 
 "Enter Label name" = "Bezeichnungname eingeben";
 
-"Uploading" = "Hochladen";
+"Uploading" = "Uploaden";
 
 "Item(s)" = "Objekt(e)";
 
@@ -511,11 +511,11 @@
 
 "Cloud List" = "Cloud-Liste";
 
-"Navigate to sub folders and create shortcuts" = "Zu Unterordnern navigieren und Verknüpfungen erstellen";
+"Navigate to sub folders and create shortcuts" = "Zu Unterordnern navigieren und die Verknüpfungen erstellen";
 
 "No cloud shortcut found" = "Keine Cloud-Verknüpfung gefunden";
 
-"Are you sure to logout?" = "Sind Sie sicher, dass Sie sich abmelden?";
+"Are you sure to logout?" = "Sind Sie sicher, dass Sie sich abmelden möchten?";
 
 "Shortcut add to cloud list successfully" = "Verknüpfung zur Cloud-Liste erfolgreich hinzugefügt;
 
@@ -591,7 +591,7 @@
 
 "Encrypt PDF" = "PDF verschlüsseln";
 
-"File Details" = "Dateidetails";
+"File Details" = "Datei-Details";
 
 "Name" = "Name";
 
@@ -615,13 +615,13 @@
 
 "Enter file name" = "Dateiname eingeben";
 
-"Error in saving recording" = "Fehler beim Speichern der Aufzeichnung";
+"Error in saving recording" = "Fehler beim Speichern der Aufnahme";
 
 "Saved Successfully" = "Erfolgreich gespeichert";
 
 "Recording Deleted" = "Aufnahme gelöscht";
 
-"Recording" = "Aufzeichnung";
+"Recording" = "Aufnahme";
 
 "Select Option" = "Option auswählen";
 
@@ -741,9 +741,9 @@
 
 "Optional" = "Optional";
 
-"Uploading..." = "Hochladen ...";
+"Uploading..." = "Uploaden...";
 
-"Importing..." = "Importieren ...";
+"Importing..." = "Importieren...";
 
 "upload(s) started in background" = "Upload(s) im Hintergrund gestartet";
 
@@ -761,9 +761,9 @@
 
 "Color Model" = "Farbmodell";
 
-"File Info" = "Dateiinformation";
+"File Info" = "Datei-Info";
 
-"FILE INFO" = "DATEIINFORMATION";
+"FILE INFO" = "DATEI-INFO";
 
 "Share & Action" = "Teilen & Aktion";
 
@@ -853,7 +853,7 @@
 
 "Note created successfully" = "Notiz wurde erfolgreich erstellt";
 
-"Note upload started in background" = "Hinweis-Upload wurde im Hintergrund gestartet";
+"Note upload started in background" = "Notiz-Upload wurde im Hintergrund gestartet";
 
 "Create Note" = "Notiz erstellen";
 
@@ -873,7 +873,7 @@
 
 "Title" = "Titel";
 
-"Compressed image used for fast process and reduce size without losing quality" = "Komprimiertes Bild wird für die schnelle Verarbeitung und Reduzierung der Größe und das ohne Qualitätsverlust";
+"Compressed image used for fast process and reduce size without losing quality" = "Komprimiertes Bild wird für die schnelle Verarbeitung und Reduzierung der Größe verwendet und das ohne Qualitätsverlust";
 
 "Authenticate and open File Manager." = "Authentifizieren und Dateimanager öffnen.";
 
